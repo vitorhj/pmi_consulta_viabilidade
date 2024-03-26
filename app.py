@@ -34,9 +34,15 @@ st.divider()
 col1, col2 = st.columns(2)
 
 with col1:
-    ib_iscricao = st.text_input(
-    "Inscrição Imobiliária (Padrão 000.000.00.0000.0000.000)",
-    key="ib_iscricao"
+    #ib_iscricao = st.text_input(
+    #"Inscrição Imobiliária (Padrão 000.000.00.0000.0000.000)",
+    #key="ib_iscricao"
+    #)
+  option = st.selectbox('Insira o zoneamento',
+    ('ZMC 1', 'ZMC 2', 'ZMC 3', 'ZMR', 'ZBR', 'ZBN 1', 'ZBN 2',
+    'ZCA 1', 'ZCA 2', 'ZCA 3', 'ZBS 1', 'ZBS 2', 'ZBS 3', 'ZBS 4',
+    'ZBS 5', 'ZBS 6', 'ZTU 1', 'ZTU 2', 'ZTU 3', 'ZTU 4', 'ZBP',
+    'ZRP1', 'ZRP2', 'ZVP', 'ZTP', 'ZDR', 'ZI', 'ZPA', 'ZP', 'ZPL')
     )
 
 with col2:

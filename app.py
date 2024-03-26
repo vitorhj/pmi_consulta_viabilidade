@@ -131,6 +131,9 @@ try:
         df_usoselect_filtrado = df_risco_uso.iloc[:, filtro_colunas]
         st.dataframe(df_usoselect_filtrado, hide_index=True)
 
+        df_usoselect_filtrado = df_usoselect_filtrado.loc[df['ZONA'] == ib_zon]
+        st.dataframe(df_usoselect_filtrado, hide_index=True)
+
         numero_colunas=df_usoselect_filtrado.shape[1]
 
         numero_colunas=list(range(numero_colunas))

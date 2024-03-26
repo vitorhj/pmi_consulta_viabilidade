@@ -38,7 +38,7 @@ with col1:
     #"Inscrição Imobiliária (Padrão 000.000.00.0000.0000.000)",
     #key="ib_iscricao"
     #)
-  option = st.selectbox('Insira o zoneamento',
+  ib_zon = st.selectbox('Insira o zoneamento',
     ('ZMC 1', 'ZMC 2', 'ZMC 3', 'ZMR', 'ZBR', 'ZBN 1', 'ZBN 2',
     'ZCA 1', 'ZCA 2', 'ZCA 3', 'ZBS 1', 'ZBS 2', 'ZBS 3', 'ZBS 4',
     'ZBS 5', 'ZBS 6', 'ZTU 1', 'ZTU 2', 'ZTU 3', 'ZTU 4', 'ZBP',
@@ -66,7 +66,7 @@ st.divider()
 
 
 try:
-    if ib_cnpj and ib_area and ib_iscricao != "":
+    if ib_cnpj and ib_area and ib_zon != "":
         
         #Lista os cnaes do CNPJ
         cnaes_cnpj = re.findall(r'\d\d.\d\d-\d-\d\d', ib_cnpj)

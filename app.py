@@ -39,7 +39,7 @@ with col1:
     #key="ib_iscricao"
     #)
   ib_zon = st.selectbox('Insira o zoneamento',
-    ('ZMC 1', 'ZMC 2', 'ZMC 3', 'ZMR', 'ZBR', 'ZBN 1', 'ZBN 2',
+    ('', 'ZMC 1', 'ZMC 2', 'ZMC 3', 'ZMR', 'ZBR', 'ZBN 1', 'ZBN 2',
     'ZCA 1', 'ZCA 2', 'ZCA 3', 'ZBS 1', 'ZBS 2', 'ZBS 3', 'ZBS 4',
     'ZBS 5', 'ZBS 6', 'ZTU 1', 'ZTU 2', 'ZTU 3', 'ZTU 4', 'ZBP',
     'ZRP1', 'ZRP2', 'ZVP', 'ZTP', 'ZDR', 'ZI', 'ZPA', 'ZP', 'ZPL')
@@ -131,7 +131,7 @@ try:
         df_usoselect_filtrado = df_risco_uso.iloc[:, filtro_colunas]
         st.dataframe(df_usoselect_filtrado, hide_index=True)
 
-        df_usoselect_filtrado = df_usoselect_filtrado.loc[df['ZONA'] = ib_zon]
+        df_usoselect_filtrado = df_usoselect_filtrado.loc[df['ZONA'].isin(ib_zon)
         st.dataframe(df_usoselect_filtrado, hide_index=True)
 
         numero_colunas=df_usoselect_filtrado.shape[1]

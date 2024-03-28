@@ -93,7 +93,7 @@ try:
         if ib_area > 200 and ib_area <= 500:
             id_uso='200a500'
         if ib_area > 500 and ib_area <= 750:
-            id_uso='500a7500'
+            id_uso='500a750'
         if ib_area > 750 and ib_area <= 1000:
             id_uso='750a1000'        
         if ib_area > 1000:

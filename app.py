@@ -77,13 +77,13 @@ try:
 
         #Filtra a coluna de risco em função da área
         if ib_area <= 150:
-            id_risco='até 150'
+            id_risco='ate150'
         if ib_area > 150 and ib_area <= 500:
-            id_risco='151 a 500'
+            id_risco='150a500'
         if ib_area > 500 and ib_area <= 750:
-            id_risco='501 a750'
+            id_risco='500a750'
         if ib_area > 750:
-            id_risco='acima 750'
+            id_risco='acima750'
         
         #Filta a coluna de uso em função da área
         if ib_area <= 150:

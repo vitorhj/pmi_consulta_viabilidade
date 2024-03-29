@@ -1,31 +1,31 @@
-ZONA,CS1,CS2,CS3,I1,I2,I3,I4,CSA,CSMV,CSE,H1,H2,CO
-ZMC 1,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZMC 2,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZMC 3,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZMR,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZBR,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZBN 1,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZBN 2,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZCA 1,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZCA 2,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZCA 3,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZBS 1,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZBS 2,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZBS 3,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZBS 4,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZBS 5,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZBS 6,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZTU 1,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZTU 2,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZTU 3,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZTU 4,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZBP,Permitido,Permitido,Permitido,Permissível,Permissível,Proibido,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZRP1,Permitido,Permitido,Permissível,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZRP2,Permitido,Permitido,Permissível,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZVP,Permitido,Permitido,Permissível,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZTP,Permitido,Permitido,Permissível,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
-ZDR,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Permissível,Permitido,Permitido,Permissível,Permitido,Permitido,Permitido
-ZI,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Permitido,Permissível,Permitido
-ZPA,Permitido,Permissível,Permissível,Permitido,Permissível,Proibido,Proibido,Permissível,Permissível,Permissível,Permitido,Permissível,Permitido
-ZP,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Proibido,Proibido,Permissível,Proibido,Proibido,Proibido
-ZPL,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Permissível,Proibido,Proibido,Permissível,Permissível,Permissível,Permitido
+ZONA,CS1,CS2,CS3,CS_750_1000,I1,I2,I3,I4,CSA,CSMV,CSE,H1,H2,CO
+ZMC 1,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZMC 2,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZMC 3,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZMR,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZBR,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZBN 1,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZBN 2,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZCA 1,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZCA 2,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZCA 3,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZBS 1,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZBS 2,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZBS 3,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZBS 4,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZBS 5,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZBS 6,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZTU 1,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZTU 2,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZTU 3,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZTU 4,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZBP,Permitido,Permitido,Permitido,Permitido,Permissível,Permissível,Proibido,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZRP1,Permitido,Permitido,Permissível,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZRP2,Permitido,Permitido,Permissível,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZVP,Permitido,Permitido,Permissível,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZTP,Permitido,Permitido,Permissível,Permitido,Permitido,Permitido,Permissível,Proibido,Permissível,Permissível,Permissível,Permitido,Permitido,Permitido
+ZDR,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Permissível,Permitido,Permitido,Permissível,Permitido,Permitido,Permitido
+ZI,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Permitido,Permissível,Permitido
+ZPA,Permitido,Permissível,Permissível,Permissível,Permitido,Permissível,Proibido,Proibido,Permissível,Permissível,Permissível,Permitido,Permissível,Permitido
+ZP,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Proibido,Proibido,Permissível,Proibido,Proibido,Proibido
+ZPL,Permitido,Permitido,Permitido,Permitido,Permitido,Permitido,Permissível,Permissível,Proibido,Proibido,Permissível,Permissível,Permissível,Permitido

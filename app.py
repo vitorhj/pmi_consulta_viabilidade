@@ -26,7 +26,7 @@ df_zona_col=pd.read_csv("zona_col.csv", nrows=100)
 
 st.image(logo_image, width=150)
 st.subheader('Consulta de Viabilidade - Alvará de Funcionamento - Itajaí')
-st.markdown('1. Tenha em em mãos o CNPJ da empresa. Selecione todas as informações clicando CTRL + A e cole da no devido campo usando CTRL + V.'https://solucoes.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Comprovante.asp)
+st.markdown('1. Tenha em em mãos o CNPJ da empresa. Selecione todas as informações clicando CTRL + A e cole da no devido campo usando CTRL + V.https://solucoes.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Comprovante.asp')
 st.markdown('2. Levante a área ocupada pela empresa, englobando as áreas construídas e não construídas destinadas à operação.')
 st.markdown('3. Busque o zoneamento através do seguinte link: https://arcgis.itajai.sc.gov.br/geoitajai/plantacadastral/plantacadastral.html')
 st.divider()

@@ -1,0 +1,1333 @@
+codigo,denominacao,atestado_bombeiros,licenca_ambiental,orgão_regulador,defesa_civil,laudo_acustico,outros_docs
+01.11-3-01,Cultivo de arroz,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.11-3-02,Cultivo de milho,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.11-3-03,Cultivo de trigo,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.11-3-99,Cultivo de outros cereais não especificados anteriormente,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.12-1-01,Cultivo de algodão herbáceo,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.12-1-02,Cultivo de juta,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.12-1-99,Cultivo de outras fibras de lavoura temporária não especificadas anteriormente,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.13-0-00,Cultivo de cana-de-açúcar,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.14-8-00,Cultivo de fumo,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.15-6-00,Cultivo de soja,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.16-4-01,Cultivo de amendoim,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.16-4-02,Cultivo de girassol,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.16-4-03,Cultivo de mamona,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.16-4-99,Cultivo de outras oleaginosas de lavoura temporária não especificadas anteriormente,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.19-9-01,Cultivo de abacaxi,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.19-9-02,Cultivo de alho,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.19-9-03,Cultivo de batata-inglesa,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.19-9-04,Cultivo de cebola,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.19-9-05,Cultivo de feijão,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.19-9-06,Cultivo de mandioca,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.19-9-07,Cultivo de melão,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.19-9-08,Cultivo de melancia,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.19-9-09,Cultivo de tomate rasteiro,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.19-9-99,Cultivo de outras plantas de lavoura temporária não especificadas anteriormente,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.21-1-01,"Horticultura, exceto morango",M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.21-1-02,Cultivo de morango,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.22-9-00,Cultivo de flores e plantas ornamentais,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.31-8-00,Cultivo de laranja,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.32-6-00,Cultivo de uva,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.33-4-01,Cultivo de açaí,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.33-4-02,Cultivo de banana,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.33-4-03,Cultivo de caju,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.33-4-04,"Cultivo de cítricos, exceto laranja",M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.33-4-05,Cultivo de coco-da-baía,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.33-4-06,Cultivo de guaraná,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.33-4-07,Cultivo de maçã,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.33-4-08,Cultivo de mamão,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.33-4-09,Cultivo de maracujá,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.33-4-10,Cultivo de manga,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.33-4-11,Cultivo de pêssego,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.33-4-99,Cultivo de frutas de lavoura permanente não especificadas anteriormente,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.34-2-00,Cultivo de café,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.35-1-00,Cultivo de cacau,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.39-3-01,Cultivo de chá-da-índia,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.39-3-02,Cultivo de erva-mate,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.39-3-03,Cultivo de pimenta-do-reino,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.39-3-04,"Cultivo de plantas para condimento, exceto pimenta-do-reino",M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.39-3-05,Cultivo de dendê,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.39-3-06,Cultivo de seringueira,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.39-3-99,Cultivo de outras plantas de lavoura permanente não especificadas anteriormente,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.41-5-01,"Produção de sementes certificadas, exceto de forrageiras para pasto",M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.41-5-02,Produção de sementes certificadas de forrageiras para formação de pasto,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.42-3-00,"Produção de mudas e outras formas de propagação vegetal, certificadas",M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.51-2-01,Criação de bovinos para corte,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.51-2-02,Criação de bovinos para leite,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.51-2-03,"Criação de bovinos, exceto para corte e leite",M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.52-1-01,Criação de bufalinos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.52-1-02,Criação de equinos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.52-1-03,Criação de asininos e muares,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.53-9-01,Criação de caprinos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.53-9-02,"Criação de ovinos, inclusive para produção de lã",M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.54-7-00,Criação de suínos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.55-5-01,Criação de frangos para corte,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.55-5-02,Produção de pintos de um dia,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.55-5-03,"Criação de outros galináceos, exceto para corte",M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.55-5-04,"Criação de aves, exceto galináceos",M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.55-5-05,Produção de ovos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.59-8-01,Apicultura,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.59-8-02,Criação de animais de estimação,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.59-8-03,Criação de escargô,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.59-8-04,Criação de bicho-da-seda,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.59-8-99,Criação de outros animais não especificados anteriormente,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.61-0-01,Serviço de pulverização e controle de pragas agrícolas,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.63-6-00,Atividades de pós-colheita,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.70-9-00,Caça e serviços relacionados,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.61-0-02,Serviço de poda de árvores para lavouras,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.61-0-03,"Serviço de preparação de terreno, cultivo e colheita",M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.61-0-99,Atividades de apoio à agricultura não especificadas anteriormente,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.62-8-01,Serviço de inseminação artificial em animais,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.62-8-02,Serviço de tosquiamento de ovinos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.62-8-03,Serviço de manejo de animais,M - Especial,Licenciamento Ambiental*,-,-,-,-
+01.62-8-99,Atividades de apoio à pecuária não especificadas anteriormente,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.10-1-01,Cultivo de eucalipto,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.10-1-02,Cultivo de acácia-negra,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.10-1-03,Cultivo de pinus,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.10-1-04,Cultivo de teca,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.10-1-05,"Cultivo de espécies madeireiras, exceto eucalipto, acácia-negra, pinus e teca",M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.10-1-06,Cultivo de mudas em viveiros florestais,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.10-1-07,Extração de madeira em florestas plantadas,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.10-1-08,Produção de carvão vegetal - florestas plantadas,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.10-1-09,Produção de casca de acácia-negra - florestas plantadas,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.10-1-99,Produção de produtos não madeireiros não especificados anteriormente em florestas plantadas,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.20-9-01,Extração de madeira em florestas nativas,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.20-9-02,Produção de carvão vegetal - florestas nativas,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.20-9-03,Coleta de castanha-do-pará em florestas nativas,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.20-9-04,Coleta de látex em florestas nativas,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.20-9-05,Coleta de palmito em florestas nativas,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.20-9-06,Conservação de florestas nativas,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.20-9-99,Coleta de produtos não madeireiros não especificados anteriormente em florestas nativas,M - Especial,Licenciamento Ambiental*,-,-,-,-
+02.30-6-00,Atividades de apoio à produção florestal,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.11-6-01,Pesca de peixes em água salgada,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.11-6-02,Pesca de crustáceos e moluscos em água salgada,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.11-6-03,Coleta de outros produtos marinhos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.11-6-04,Atividades de apoio à pesca em água salgada,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.12-4-01,Pesca de peixes em água doce,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.12-4-02,Pesca de crustáceos e moluscos em água doce,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.12-4-03,Coleta de outros produtos aquáticos de água doce,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.21-3-01,Criação de peixes em água salgada e salobra,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.21-3-02,Criação de camarões em água salgada e salobra,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.21-3-03,Criação de ostras e mexilhões em água salgada e salobra,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.21-3-04,Criação de peixes ornamentais em água salgada e salobra,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.21-3-99,Cultivos e semicultivos da aquicultura em água salgada e salobra não especificados anteriormente,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.22-1-01,Criação de peixes em água doce,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.22-1-02,Criação de camarões em água doce,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.22-1-03,Criação de ostras e mexilhões em água doce,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.22-1-04,Criação de peixes ornamentais em água doce,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.22-1-05,Ranicultura,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.22-1-06,Criação de jacaré,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.22-1-99,Cultivos e semicultivos da aquicultura em água doce não especificados anteriormente,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.12-4-04,Atividades de apoio à pesca em água doce,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.21-3-05,Atividades de apoio à aquicultura em água salgada e salobra,M - Especial,Licenciamento Ambiental*,-,-,-,-
+03.22-1-07,Atividades de apoio à aquicultura em água doce,M - Especial,Licenciamento Ambiental*,-,-,-,-
+05.00-3-01,Extração de carvão mineral,M - Especial,Licenciamento Ambiental*,-,-,-,-
+05.00-3-02,Beneficiamento de carvão mineral,M - Especial,Licenciamento Ambiental*,-,-,-,-
+06.00-0-01,Extração de petróleo e gás natural,M - Especial,Licenciamento Ambiental*,-,-,-,-
+06.00-0-02,Extração e beneficiamento de xisto,M - Especial,Licenciamento Ambiental*,-,-,-,-
+06.00-0-03,Extração e beneficiamento de areias betuminosas,M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.10-3-01,Extração de minério de ferro,M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.10-3-02,"Pelotização, sinterização e outros beneficiamentos de minério de ferro",M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.21-9-01,Extração de minério de alumínio,M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.21-9-02,Beneficiamento de minério de alumínio,M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.22-7-01,Extração de minério de estanho,M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.22-7-02,Beneficiamento de minério de estanho,M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.23-5-01,Extração de minério de manganês,M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.23-5-02,Beneficiamento de minério de manganês,M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.24-3-01,Extração de minério de metais preciosos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.24-3-02,Beneficiamento de minério de metais preciosos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.25-1-00,Extração de minerais radioativos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.29-4-01,Extração de minérios de nióbio e titânio,M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.29-4-02,Extração de minério de tungstênio,M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.29-4-03,Extração de minério de níquel,M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.29-4-04,"Extração de minérios de cobre, chumbo, zinco e outros minerais metálicos não ferrosos não especificados anteriormente",M - Especial,Licenciamento Ambiental*,-,-,-,-
+07.29-4-05,"Beneficiamento de minérios de cobre, chumbo, zinco e outros minerais metálicos não ferrosos não especificados anteriormente",M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.10-0-01,Extração de ardósia e beneficiamento associado,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.10-0-02,Extração de granito e beneficiamento associado,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.10-0-03,Extração de mármore e beneficiamento associado,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.10-0-04,Extração de calcário e dolomita e beneficiamento associado,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.10-0-05,Extração de gesso e caulim,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.10-0-06,"Extração de areia, cascalho ou pedregulho e beneficiamento associado",M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.10-0-07,Extração de argila e beneficiamento associado,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.10-0-08,Extração de saibro e beneficiamento associado,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.10-0-09,Extração de bas e beneficiamento associado,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.10-0-10,Beneficiamento de gesso e caulim associado à extração,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.10-0-99,Extração e britamento de pedras e outros materiais para construção e beneficiamento associado,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.91-6-00,"Extração de minerais para fabricação de adubos, fertilizantes e outros produtos químicos",M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.92-4-01,Extração de sal marinho,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.92-4-02,Extração de sal-gema,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.92-4-03,Refino e outros tratamentos do sal,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.93-2-00,Extração de gemas (pedras preciosas e semipreciosas),M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.99-1-01,Extração de grafita,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.99-1-02,Extração de quartzo,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.99-1-03,Extração de amianto,M - Especial,Licenciamento Ambiental*,-,-,-,-
+08.99-1-99,Extração de outros minerais não metálicos não especificados anteriormente,M - Especial,Licenciamento Ambiental*,-,-,-,-
+09.10-6-00,Atividades de apoio à extração de petróleo e gás natural,M - Especial,Licenciamento Ambiental*,-,-,-,-
+09.90-4-01,Atividades de apoio à extração de minério de ferro,M - Especial,Licenciamento Ambiental*,-,-,-,-
+09.90-4-02,Atividades de apoio à extração de minerais metálicos não ferrosos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+09.90-4-03,Atividades de apoio à extração de minerais não metálicos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+10.11-2-01,Frigorífico - abate de bovinos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+10.11-2-02,Frigorífico - abate de equinos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+10.11-2-03,Frigorífico - abate de ovinos e caprinos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+10.11-2-04,Frigorífico - abate de bufalinos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+10.11-2-05,"Matadouro - abate de reses sob contrato, exceto abate de suínos",M - Especial,Licenciamento Ambiental*,-,-,-,-
+10.12-1-01,Abate de aves,M - Especial,Licenciamento Ambiental*,-,-,-,-
+10.12-1-02,Abate de pequenos animais,M - Especial,Licenciamento Ambiental*,-,-,-,-
+10.12-1-03,Frigorífico - abate de suínos,M - Especial,Licenciamento Ambiental*,-,-,-,-
+10.12-1-04,Matadouro - abate de suínos sob contrato,M - Especial,Licenciamento Ambiental*,-,-,-,-
+10.99-6-04,Fabricação de gelo comum,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.13-9-01,Fabricação de produtos de carne,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.20-1-01,"Preservação de peixes, crustáceos e moluscos",I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.20-1-02,"Fabricação de conservas de peixes, crustáceos e moluscos",I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.31-7-00,Fabricação de conservas de frutas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.32-5-01,Fabricação de conservas de palmito,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.32-5-99,"Fabricação de conservas de legumes e outros vegetais, exceto palmito",I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.33-3-01,"Fabricação de sucos concentrados de frutas, hortaliças e legumes",I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.33-3-02,"Fabricação de sucos de frutas, hortaliças e legumes, exceto concentrados",I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.41-4-00,"Fabricação de óleos vegetais em bruto, exceto óleo de milho",I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.42-2-00,"Fabricação de óleos vegetais refinados, exceto óleo de milho",I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.43-1-00,Fabricação de margarina e outras gorduras vegetais e de óleos não comestíveis de animais,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.52-0-00,Fabricação de laticínios,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.53-8-00,Fabricação de sorvetes e outros gelados comestíveis,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.61-9-02,Fabricação de produtos do arroz,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.63-5-00,Fabricação de farinha de mandioca e derivados,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.64-3-00,"Fabricação de farinha de milho e derivados, exceto óleos de milho",I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.65-1-01,Fabricação de amidos e féculas de vegetais,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.65-1-02,Fabricação de óleo de milho em bruto,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.65-1-03,Fabricação de óleo de milho refinado,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.66-0-00,Fabricação de alimentos para animais,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.71-6-00,Fabricação de açúcar em bruto,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.72-4-01,Fabricação de açúcar de cana refinado,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.72-4-02,Fabricação de açúcar de cereais (dextrose) e de beterraba,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.82-1-00,Fabricação de produtos à base de café,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.91-1-01,Fabricação de produtos de panificação industrial,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.91-1-02,Fabricação de produtos de padaria e confeitaria com predominância de produção própria,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.92-9-00,Fabricação de biscoitos e bolachas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.93-7-01,Fabricação de produtos derivados do cacau e de chocolates,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.93-7-02,"Fabricação de frutas cristalizadas, balas e semelhantes",I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.94-5-00,Fabricação de massas alimentícias,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.95-3-00,"Fabricação de especiarias, molhos, temperos e condimentos",I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.96-1-00,Fabricação de alimentos e pratos prontos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.99-6-01,Fabricação de vinagres,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.99-6-02,Fabricação de pós-alimentícios,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.99-6-03,Fabricação de fermentos e leveduras,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.99-6-05,"Fabricação de produtos para infusão (chá, mate, etc.)",I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.99-6-06,Fabricação de adoçantes naturais e artificiais,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.99-6-07,Fabricação de alimentos dietéticos e complementos alimentares,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.99-6-99,Fabricação de outros produtos alimentícios não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.13-9-02,Preparação de subprodutos do abate,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.51-1-00,Preparação do leite,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.61-9-01,Beneficiamento de arroz,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.62-7-00,Moagem de trigo e fabricação de derivados,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.69-4-00,Moagem e fabricação de produtos de origem vegetal não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.81-3-01,Beneficiamento de café,I - Indústria,Licenciamento Ambiental,-,-,-,-
+10.81-3-02,Torrefação e moagem de café,I - Indústria,Licenciamento Ambiental,-,-,-,-
+11.11-9-01,Fabricação de aguardente de cana-de-açúcar,I - Indústria,Licenciamento Ambiental,-,-,-,-
+11.11-9-02,Fabricação de outras aguardentes e bebidas destiladas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+11.12-7-00,Fabricação de vinho,I - Indústria,Licenciamento Ambiental,-,-,-,-
+11.13-5-01,"Fabricação de malte, inclusive malte uísque",I - Indústria,Licenciamento Ambiental,-,-,-,-
+11.13-5-02,Fabricação de cervejas e chopes,I - Indústria,Licenciamento Ambiental,-,-,-,-
+11.21-6-00,Fabricação de águas envasadas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+11.22-4-01,Fabricação de refrigerantes,I - Indústria,Licenciamento Ambiental,-,-,-,-
+11.22-4-02,Fabricação de chá mate e outros chás prontos para consumo,I - Indústria,Licenciamento Ambiental,-,-,-,-
+11.22-4-03,"Fabricação de refrescos, xaropes e pós para refrescos, exceto refrescos de frutas",I - Indústria,Licenciamento Ambiental,-,-,-,-
+11.22-4-04,Fabricação de bebidas isotônicas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+11.22-4-99,Fabricação de outras bebidas não alcoólicas não especificadas anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+12.10-7-00,Processamento industrial do fumo,I - Indústria,Licenciamento Ambiental,-,-,-,-
+12.20-4-01,Fabricação de cigarros,I - Indústria,Licenciamento Ambiental,-,-,-,-
+12.20-4-02,Fabricação de cigarrilhas e charutos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+12.20-4-03,Fabricação de filtros para cigarros,I - Indústria,Licenciamento Ambiental,-,-,-,-
+12.20-4-99,"Fabricação de outros produtos do fumo, exceto cigarros, cigarrilhas e charutos",I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.11-1-00,Preparação e fiação de fibras de algodão,I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.12-0-00,"Preparação e fiação de fibras têxteis naturais, exceto algodão",I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.40-5-01,"Estamparia e texturização em fios, tecidos, artefatos têxteis e peças do vestuário",I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.40-5-02,"Alvejamento, tingimento e torção em fios, tecidos, artefatos têxteis e peças do vestuário",I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.13-8-00,Fiação de fibras artificiais e sintéticas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.21-9-00,Tecelagem de fios de algodão,I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.22-7-00,"Tecelagem de fios de fibras têxteis naturais, exceto algodão",I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.23-5-00,Tecelagem de fios de fibras artificiais e sintéticas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.40-5-99,"Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário",I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.14-6-00,Fabricação de linhas para costurar e bordar,I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.30-8-00,Fabricação de tecidos de malha,I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.51-1-00,Fabricação de artefatos têxteis para uso doméstico,I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.52-9-00,Fabricação de artefatos de tapeçaria,I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.53-7-00,Fabricação de artefatos de cordoaria,I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.54-5-00,"Fabricação de tecidos especiais, inclusive artefatos",I - Indústria,Licenciamento Ambiental,-,-,-,-
+13.59-6-00,Fabricação de outros produtos têxteis não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+14.11-8-01,Confecção de roupas íntimas,C - Comercial,-,-,-,-,-
+14.11-8-02,Facção de roupas íntimas,C - Comercial,-,-,-,-,-
+14.12-6-01,"Confecção de peças do vestuário, exceto roupas íntimas e as confeccionadas sob medida",C - Comercial,-,-,-,-,-
+14.12-6-02,"Confecção, sob medida, de peças do vestuário, exceto roupas íntimas",C - Comercial,-,-,-,-,-
+14.12-6-03,"Facção de peças do vestuário, exceto roupas íntimas",C - Comercial,-,-,-,-,-
+14.13-4-01,"Confecção de roupas profissionais, exceto sob medida",C - Comercial,-,-,-,-,-
+14.13-4-02,"Confecção, sob medida, de roupas profissionais",C - Comercial,-,-,-,-,-
+14.13-4-03,Facção de roupas profissionais,C - Comercial,-,-,-,-,-
+14.14-2-00,"Fabricação de acessórios do vestuário, exceto para segurança e proteção",I - Indústria,Licenciamento Ambiental,-,-,-,-
+14.21-5-00,Fabricação de meias,I - Indústria,Licenciamento Ambiental,-,-,-,-
+14.22-3-00,"Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias",I - Indústria,Licenciamento Ambiental,-,-,-,-
+15.10-6-00,Curtimento e outras preparações de couro,I - Indústria,Licenciamento Ambiental,-,-,-,-
+15.31-9-02,Acabamento de calçados de couro sob contrato,I - Indústria,Licenciamento Ambiental,-,-,-,-
+15.21-1-00,"Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material",I - Indústria,Licenciamento Ambiental,-,-,-,-
+15.29-7-00,Fabricação de artefatos de couro não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+15.31-9-01,Fabricação de calçados de couro,I - Indústria,Licenciamento Ambiental,-,-,-,-
+15.32-7-00,Fabricação de tênis de qualquer material,I - Indústria,Licenciamento Ambiental,-,-,-,-
+15.33-5-00,Fabricação de calçados de material sintético,I - Indústria,Licenciamento Ambiental,-,-,-,-
+15.39-4-00,Fabricação de calçados de materiais não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+15.40-8-00,"Fabricação de partes para calçados, de qualquer material",I - Indústria,Licenciamento Ambiental,-,-,-,-
+16.10-2-03,Serrarias com desdobramento de madeira em bruto,I - Indústria,Licenciamento Ambiental,-,-,-,-
+16.10-2-04,Serrarias sem desdobramento de madeira em bruto - Resseragem,I - Indústria,Licenciamento Ambiental,-,-,-,-
+16.10-2-05,Serviço de tratamento de madeira realizado sob contrato,I - Indústria,Licenciamento Ambiental,-,-,-,-
+16.21-8-00,"Fabricação de madeira laminada e de chapas de madeira compensada, prensada e aglomerada",I - Indústria,Licenciamento Ambiental,-,-,-,-
+16.22-6-01,Fabricação de casas de madeira pré-fabricadas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+16.22-6-02,Fabricação de esquadrias de madeira e de peças de madeira para instalações industriais e comerciais,I - Indústria,Licenciamento Ambiental,-,-,-,-
+16.22-6-99,Fabricação de outros artigos de carpintaria para construção,I - Indústria,Licenciamento Ambiental,-,-,-,-
+16.23-4-00,Fabricação de artefatos de tanoaria e de embalagens de madeira,I - Indústria,Licenciamento Ambiental,-,-,-,-
+16.29-3-01,"Fabricação de artefatos diversos de madeira, exceto móveis",I - Indústria,Licenciamento Ambiental,-,-,-,-
+16.29-3-02,"Fabricação de artefatos diversos de cortiça, bambu, palha, vime e outros materiais trançados, exceto móveis",I - Indústria,Licenciamento Ambiental,-,-,-,-
+17.10-9-00,Fabricação de celulose e outras pastas para a fabricação de papel,I - Indústria,Licenciamento Ambiental,-,-,-,-
+17.21-4-00,Fabricação de papel,I - Indústria,Licenciamento Ambiental,-,-,-,-
+17.22-2-00,Fabricação de cartolina e papel-cartão,I - Indústria,Licenciamento Ambiental,-,-,-,-
+17.31-1-00,Fabricação de embalagens de papel,I - Indústria,Licenciamento Ambiental,-,-,-,-
+17.32-0-00,Fabricação de embalagens de cartolina e papel-cartão,I - Indústria,Licenciamento Ambiental,-,-,-,-
+17.33-8-00,Fabricação de chapas e de embalagens de papelão ondulado,I - Indústria,Licenciamento Ambiental,-,-,-,-
+17.41-9-01,Fabricação de formulários contínuos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+17.41-9-02,"Fabricação de produtos de papel, cartolina, papel-cartão e papelão ondulado para uso comercial e de escritório",I - Indústria,Licenciamento Ambiental,-,-,-,-
+17.42-7-01,Fabricação de fraldas descartáveis,I - Indústria,Licenciamento Ambiental,-,-,-,-
+17.42-7-02,Fabricação de absorventes higiênicos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+17.42-7-99,Fabricação de produtos de papel para uso doméstico e higiênico-sanitário não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+17.49-4-00,"Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulado não especificados anteriormente",I - Indústria,Licenciamento Ambiental,-,-,-,-
+18.11-3-01,Impressão de jornais,I - Indústria,Licenciamento Ambiental,-,-,-,-
+18.11-3-02,"Impressão de livros, revistas e outras publicações periódicas",I - Indústria,Licenciamento Ambiental,-,-,-,-
+18.12-1-00,Impressão de material de segurança,I - Indústria,Licenciamento Ambiental,-,-,-,-
+18.13-0-01,Impressão de material para uso publicitário,I - Indústria,Licenciamento Ambiental,-,-,-,-
+18.13-0-99,Impressão de material para outros usos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+18.21-1-00,Serviços de pré-impressão,C - Comercial,-,-,-,-,-
+18.22-9-01,Serviços de encadernação e plastificação,C - Comercial,-,-,-,-,-
+18.22-9-99,"Serviços de acabamentos gráficos, exceto encadernação e plastificação",C - Comercial,-,-,-,-,-
+18.30-0-01,Reprodução de som em qualquer suporte,C - Comercial,-,-,-,-,-
+18.30-0-02,Reprodução de vídeo em qualquer suporte,C - Comercial,-,-,-,-,-
+18.30-0-03,Reprodução de software em qualquer suporte,C - Comercial,-,-,-,-,-
+19.10-1-00,Coquerias,I - Indústria,Licenciamento Ambiental,-,-,-,-
+19.21-7-00,Fabricação de produtos do refino de petróleo,I - Indústria,Licenciamento Ambiental,-,-,-,-
+19.22-5-01,Formulação de combustíveis,I - Indústria,Licenciamento Ambiental,-,-,-,-
+19.22-5-02,Rerrefino de óleos lubrificantes,I - Indústria,Licenciamento Ambiental,-,-,-,-
+19.22-5-99,"Fabricação de outros produtos derivados do petróleo, exceto produtos do refino",I - Indústria,Licenciamento Ambiental,-,-,-,-
+19.31-4-00,Fabricação de álcool,I - Indústria,Licenciamento Ambiental,-,-,-,-
+19.32-2-00,"Fabricação de biocombustíveis, exceto álcool",I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.11-8-00,Fabricação de cloro e álcalis,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.12-6-00,Fabricação de intermediários para fertilizantes,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.13-4-01,Fabricação de adubos e fertilizantes organo-minerais,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.13-4-02,"Fabricação de adubos e fertilizantes, exceto organo-minerais",I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.14-2-00,Fabricação de gases industriais,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.19-3-01,Elaboração de combustíveis nucleares,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.19-3-99,Fabricação de outros produtos químicos inorgânicos não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.21-5-00,Fabricação de produtos petroquímicos básicos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.22-3-00,"Fabricação de intermediários para plastificantes, resinas e fibras",I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.29-1-00,Fabricação de produtos químicos orgânicos não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.31-2-00,Fabricação de resinas termoplásticas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.32-1-00,Fabricação de resinas termofixas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.33-9-00,Fabricação de elastômeros,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.40-1-00,Fabricação de fibras artificiais e sintéticas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.51-7-00,Fabricação de defensivos agrícolas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.52-5-00,Fabricação de desinfestantes domissanitários,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.61-4-00,Fabricação de sabões e detergentes sintéticos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.62-2-00,Fabricação de produtos de limpeza e polimento,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.63-1-00,"Fabricação de cosméticos, produtos de perfumaria e de higiene pessoal",I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.71-1-00,"Fabricação de tintas, vernizes, esmaltes e lacas",I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.72-0-00,Fabricação de tintas de impressão,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.73-8-00,"Fabricação de impermeabilizantes, solventes e produtos afins",I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.91-6-00,Fabricação de adesivos e selantes,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.92-4-01,"Fabricação de pólvoras, explosivos e detonantes",L - Explosivo,Licenciamento Ambiental,-,Parecer da defesa civil,-,-
+20.92-4-02,Fabricação de artigos pirotécnicos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.92-4-03,Fabricação de fósforos de segurança,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.93-2-00,Fabricação de aditivos de uso industrial,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.94-1-00,Fabricação de catalisadores,I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.99-1-01,"Fabricação de chapas, filmes, papéis e outros materiais e produtos químicos para fotografia",I - Indústria,Licenciamento Ambiental,-,-,-,-
+20.99-1-99,Fabricação de outros produtos químicos não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+21.10-6-00,Fabricação de produtos farmoquímicos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+21.21-1-01,Fabricação de medicamentos alopáticos para uso humano,I - Indústria,Licenciamento Ambiental,-,-,-,-
+21.21-1-02,Fabricação de medicamentos homeopáticos para uso humano,I - Indústria,Licenciamento Ambiental,-,-,-,-
+21.21-1-03,Fabricação de medicamentos fitoterápicos para uso humano,I - Indústria,Licenciamento Ambiental,-,-,-,-
+21.22-0-00,Fabricação de medicamentos para uso veterinário,I - Indústria,Licenciamento Ambiental,-,-,-,-
+21.23-8-00,Fabricação de preparações farmacêuticas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+22.11-1-00,Fabricação de pneumáticos e de câmaras-de-ar,I - Indústria,Licenciamento Ambiental,-,-,-,-
+22.19-6-00,Fabricação de artefatos de borracha não especificados  anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+22.21-8-00,Fabricação de laminados planos e tubulares de material plástico,I - Indústria,Licenciamento Ambiental,-,-,-,-
+22.22-6-00,Fabricação de embalagens de material plástico,I - Indústria,Licenciamento Ambiental,-,-,-,-
+22.23-4-00,Fabricação de tubos e acessórios de material plástico para uso na construção,I - Indústria,Licenciamento Ambiental,-,-,-,-
+22.29-3-01,Fabricação de artefatos de material plástico para uso pessoal e doméstico,I - Indústria,Licenciamento Ambiental,-,-,-,-
+22.29-3-02,Fabricação de artefatos de material plástico para usos industriais,I - Indústria,Licenciamento Ambiental,-,-,-,-
+22.29-3-03,"Fabricação de artefatos de material plástico para uso na construção, exceto tubos e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+22.29-3-99,Fabricação de artefatos de material plástico para outros usos não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+22.12-9-00,Reforma de pneumáticos usados,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.11-7-00,Fabricação de vidro plano e de segurança,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.12-5-00,Fabricação de embalagens de vidro,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.19-2-00,Fabricação de artigos de vidro,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.30-3-01,"Fabricação de estruturas pré-moldadas de concreto armado, em série e sob encomenda",I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.30-3-02,Fabricação de artefatos de cimento para uso na construção,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.30-3-03,Fabricação de artefatos de fibrocimento para uso na construção,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.30-3-04,Fabricação de casas pré-moldadas de concreto,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.30-3-05,Preparação de massa de concreto e argamassa para construção,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.30-3-99,"Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.41-9-00,Fabricação de produtos cerâmicos refratários,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.42-7-01,Fabricação de azulejos e pisos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.42-7-02,"Fabricação de artefatos de cerâmica e barro cozido para uso na construção, exceto azulejos e pisos",I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.49-4-01,Fabricação de material sanitário de cerâmica,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.49-4-99,Fabricação de produtos cerâmicos não refratários não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.20-6-00,Fabricação de cimento,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.91-5-01,"Britamento de pedras, exceto associado à extração",I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.91-5-02,"Aparelhamento de pedras para construção, exceto associado à extração",I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.91-5-03,"Aparelhamento de placas e execução de trabalhos em mármore, granito, ardósia e outras pedras",I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.92-3-00,Fabricação de cal e gesso,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.99-1-02,Fabricação de abrasivos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.99-1-99,Fabricação de outros produtos de minerais não metálicos não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+23.99-1-01,"Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal",I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.11-3-00,Produção de ferro-gusa,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.12-1-00,Produção de ferroligas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.21-1-00,Produção de semiacabados de aço,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.22-9-01,"Produção de laminados planos de aço ao carbono, revestidos ou não",I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.22-9-02,Produção de laminados planos de aços especiais,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.23-7-01,Produção de tubos de aço sem costura,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.23-7-02,"Produção de laminados longos de aço, exceto tubos",I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.24-5-01,Produção de arames de aço,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.24-5-02,"Produção de relaminados, trefilados e perfilados de aço, exceto arames",I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.31-8-00,Produção de tubos de aço com costura,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.39-3-00,Produção de outros tubos de ferro e aço,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.41-5-01,Produção de alumínio e suas ligas em formas primárias,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.41-5-02,Produção de laminados de alumínio,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.42-3-00,Metalurgia dos metais preciosos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.43-1-00,Metalurgia do cobre,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.49-1-01,Produção de zinco em formas primárias,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.49-1-02,Produção de laminados de zinco,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.49-1-03,Fabricação de ânodos para galvanoplastia,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.49-1-99,Metalurgia de outros metais não ferrosos e suas ligas não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.51-2-00,Fundição de ferro e aço,I - Indústria,Licenciamento Ambiental,-,-,-,-
+24.52-1-00,Fundição de metais não ferrosos e suas ligas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.11-0-00,Fabricação de estruturas metálicas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.12-8-00,Fabricação de esquadrias de metal,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.13-6-00,Fabricação de obras de caldeiraria pesada,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.21-7-00,"Fabricação de tanques, reservatórios metálicos e caldeiras para aquecimento central",I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.22-5-00,"Fabricação de caldeiras geradoras de vapor, exceto para aquecimento central e para veículos",I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.31-4-01,Produção de forjados de aço,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.31-4-02,Produção de forjados de metais não ferrosos e suas ligas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.32-2-01,Produção de artefatos estampados de metal,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.32-2-02,Metalurgia do pó,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.41-1-00,Fabricação de artigos de cutelaria,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.42-0-00,"Fabricação de artigos de serralheria, exceto esquadrias",I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.43-8-00,Fabricação de ferramentas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.91-8-00,Fabricação de embalagens metálicas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.92-6-01,Fabricação de produtos de trefilados de metal padronizados,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.92-6-02,"Fabricação de produtos de trefilados de metal, exceto padronizados",I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.93-4-00,Fabricação de artigos de metal para uso doméstico e pessoal,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.99-3-99,Fabricação de outros produtos de metal não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.39-0-01,"Serviços de usinagem, torneiria e solda",I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.99-3-01,Serviços de confecção de armações metálicas para a construção,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.99-3-02,Serviço de corte e dobra de metais,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.39-0-02,Serviços de tratamento e revestimento em metais,I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.50-1-01,"Fabricação de equipamento bélico pesado, exceto veículos militares de combate",I - Indústria,Licenciamento Ambiental,-,-,-,-
+25.50-1-02,"Fabricação de armas de fogo, outras armas e munições",I - Indústria,Licenciamento Ambiental,Autorização do Exército,-,-,-
+26.10-8-00,Fabricação de componentes eletrônicos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+26.21-3-00,Fabricação de equipamentos de informática,I - Indústria,Licenciamento Ambiental,-,-,-,-
+26.22-1-00,Fabricação de periféricos para equipamentos de informática,I - Indústria,Licenciamento Ambiental,-,-,-,-
+26.31-1-00,"Fabricação de equipamentos transmissores de comunicação, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+26.32-9-00,"Fabricação de aparelhos telefônicos e de outros equipamentos de comunicação, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+26.40-0-00,"Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo",I - Indústria,Licenciamento Ambiental,-,-,-,-
+26.51-5-00,"Fabricação de aparelhos e equipamentos de medida, teste e controle",I - Indústria,Licenciamento Ambiental,-,-,-,-
+26.52-3-00,Fabricação de cronômetros e relógios,I - Indústria,Licenciamento Ambiental,-,-,-,-
+26.70-1-01,"Fabricação de equipamentos e instrumentos ópticos, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+26.70-1-02,"Fabricação de aparelhos fotográficos e cinematográficos, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+26.80-9-00,"Fabricação de mídias virgens, magnéticas e ópticas",I - Indústria,Licenciamento Ambiental,-,-,-,-
+26.60-4-00,Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação,I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.10-4-01,"Fabricação de geradores de corrente contínua e alternada, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.10-4-02,"Fabricação de transformadores, indutores, conversores, sincronizadores e semelhantes, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.10-4-03,"Fabricação de motores elétricos, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.31-7-00,Fabricação de aparelhos e equipamentos para distribuição e controle de energia elétrica,I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.32-5-00,Fabricação de material elétrico para instalações em circuito de consumo,I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.33-3-00,"Fabricação de fios, cabos e condutores elétricos isolados",I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.40-6-01,Fabricação de lâmpadas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.40-6-02,Fabricação de luminárias e outros equipamentos de iluminação,I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.51-1-00,"Fabricação de fogões, refrigeradores e máquinas de lavar e secar para uso doméstico, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.59-7-01,"Fabricação de aparelhos elétricos de uso pessoal, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.59-7-99,"Fabricação de outros aparelhos eletrodomésticos não especificados anteriormente, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.90-2-01,"Fabricação de eletrodos, contatos e outros artigos de carvão e grafita para uso elétrico, eletroímãs e isoladores",I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.90-2-02,Fabricação de equipamentos para sinalização e alarme,I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.90-2-99,Fabricação de outros equipamentos e aparelhos elétricos não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.21-0-00,"Fabricação de pilhas, baterias e acumuladores elétricos, exceto para veículos automotores",I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.22-8-01,Fabricação de baterias e acumuladores para veículos automotores,I - Indústria,Licenciamento Ambiental,-,-,-,-
+27.22-8-02,Recondicionamento de baterias e acumuladores para veículos automotores,I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.11-9-00,"Fabricação de motores e turbinas, peças e acessórios, exceto para aviões e veículos rodoviários",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.12-7-00,"Fabricação de equipamentos hidráulicos e pneumáticos, peças e acessórios, exceto válvulas",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.13-5-00,"Fabricação de válvulas, registros e dispositivos semelhantes, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.14-3-01,"Fabricação de compressores para uso industrial, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.14-3-02,"Fabricação de compressores para uso não industrial, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.15-1-01,Fabricação de rolamentos para fins industriais,I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.15-1-02,"Fabricação de equipamentos de transmissão para fins industriais, exceto rolamentos",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.21-6-01,"Fabricação de fornos industriais, aparelhos e equipamentos não elétricos para instalações térmicas, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.21-6-02,"Fabricação de estufas e fornos elétricos para fins industriais, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.22-4-01,"Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de pessoas, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.22-4-02,"Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.23-2-00,"Fabricação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.24-1-01,Fabricação de aparelhos e equipamentos de ar condicionado para uso industrial,I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.24-1-02,Fabricação de aparelhos e equipamentos de ar condicionado para uso não industrial,I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.25-9-00,"Fabricação de máquinas e equipamentos para saneamento básico e ambiental, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.29-1-01,"Fabricação de máquinas de escrever, calcular e outros equipamentos não eletrônicos para escritório, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.29-1-99,"Fabricação de outras máquinas e equipamentos de uso geral não especificados anteriormente, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.31-3-00,"Fabricação de tratores agrícolas, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.32-1-00,"Fabricação de equipamentos para irrigação agrícola, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.33-0-00,"Fabricação de máquinas e equipamentos para a agricultura e pecuária, peças e acessórios, exceto para irrigação",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.40-2-00,"Fabricação de máquinas-ferramenta, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.51-8-00,"Fabricação de máquinas e equipamentos para a prospecção e extração de petróleo, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.52-6-00,"Fabricação de outras máquinas e equipamentos para uso na extração mineral, peças e acessórios, exceto na extração de petróleo",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.53-4-00,"Fabricação de tratores, peças e acessórios, exceto agrícolas",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.54-2-00,"Fabricação de máquinas e equipamentos para terraplenagem, pavimentação e construção, peças e acessórios, exceto tratores",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.61-5-00,"Fabricação de máquinas para a indústria metalúrgica, peças e acessórios, exceto máquinas-ferramenta",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.62-3-00,"Fabricação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.63-1-00,"Fabricação de máquinas e equipamentos para a indústria têxtil, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.64-0-00,"Fabricação de máquinas e equipamentos para as indústrias do vestuário, do couro e de calçados, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.65-8-00,"Fabricação de máquinas e equipamentos para as indústrias de celulose, papel e papelão e artefatos, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.66-6-00,"Fabricação de máquinas e equipamentos para a indústria do plástico, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+28.69-1-00,"Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.10-7-01,"Fabricação de automóveis, camionetas e utilitários",I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.10-7-02,"Fabricação de chassis com motor para automóveis, camionetas e utilitários",I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.10-7-03,"Fabricação de motores para automóveis, camionetas e utilitários",I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.20-4-01,Fabricação de caminhões e ônibus,I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.20-4-02,Fabricação de motores para caminhões e ônibus,I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.30-1-01,"Fabricação de cabines, carrocerias e reboques para caminhões",I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.30-1-02,Fabricação de carrocerias para ônibus,I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.30-1-03,"Fabricação de cabines, carrocerias e reboques para outros veículos automotores, exceto caminhões e ônibus",I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.41-7-00,Fabricação de peças e acessórios para o sistema motor de veículos automotores,I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.42-5-00,Fabricação de peças e acessórios para os sistemas de marcha e transmissão de veículos automotores,I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.43-3-00,Fabricação de peças e acessórios para o sistema de freios de veículos automotores,I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.44-1-00,Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores,I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.45-0-00,"Fabricação de material elétrico e eletrônico para veículos automotores, exceto baterias",I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.49-2-01,Fabricação de bancos e estofados para veículos automotores,I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.49-2-99,Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+29.50-6-00,Recondicionamento e recuperação de motores para veículos automotores,I - Indústria,Licenciamento Ambiental,-,-,-,-
+30.11-3-01,Construção de embarcações de grande porte,I - Indústria,Licenciamento Ambiental,-,-,-,-
+30.11-3-02,"Construção de embarcações para uso comercial e para usos especiais, exceto de grande porte",I - Indústria,Licenciamento Ambiental,-,-,-,-
+30.12-1-00,Construção de embarcações para esporte e lazer,I - Indústria,Licenciamento Ambiental,-,-,-,-
+30.31-8-00,"Fabricação de locomotivas, vagões e outros materiais rodantes",I - Indústria,Licenciamento Ambiental,-,-,-,-
+30.32-6-00,Fabricação de peças e acessórios para veículos ferroviários,I - Indústria,Licenciamento Ambiental,-,-,-,-
+30.41-5-00,Fabricação de aeronaves,I - Indústria,Licenciamento Ambiental,-,-,-,-
+30.42-3-00,"Fabricação de turbinas, motores e outros componentes e peças para aeronaves",I - Indústria,Licenciamento Ambiental,-,-,-,-
+30.50-4-00,Fabricação de veículos militares de combate,I - Indústria,Licenciamento Ambiental,-,-,-,-
+30.91-1-01,Fabricação de motocicletas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+30.91-1-02,Fabricação de peças e acessórios para motocicletas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+30.92-0-00,"Fabricação de bicicletas e triciclos não motorizados, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+30.99-7-00,Fabricação de equipamentos de transporte não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+31.01-2-00,Fabricação de móveis com predominância de madeira,I - Indústria,Licenciamento Ambiental,-,-,-,-
+31.02-1-00,Fabricação de móveis com predominância de metal,I - Indústria,Licenciamento Ambiental,-,-,-,-
+31.03-9-00,"Fabricação de móveis de outros materiais, exceto madeira e metal",I - Indústria,Licenciamento Ambiental,-,-,-,-
+31.04-7-00,Fabricação de colchões,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.11-6-01,Lapidação de gemas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.11-6-03,Cunhagem de moedas e medalhas,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.11-6-02,Fabricação de artefatos de joalheria e ourivesaria,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.12-4-00,Fabricação de bijuterias e artefatos semelhantes,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.40-0-01,Fabricação de jogos eletrônicos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.20-5-00,"Fabricação de instrumentos musicais, peças e acessórios",I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.30-2-00,Fabricação de artefatos para pesca e esporte,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.40-0-02,"Fabricação de mesas de bilhar, de sinuca e acessórios não associada à locação",I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.40-0-03,"Fabricação de mesas de bilhar, de sinuca e acessórios associada à locação",I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.40-0-99,Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.50-7-01,"Fabricação de instrumentos não eletrônicos e utensílios para uso médico, cirúrgico, odontológico e de laboratório",I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.50-7-02,"Fabricação de mobiliário para uso médico, cirúrgico, odontológico e de laboratório",I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.50-7-03,Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral sob encomenda,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.50-7-04,"Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral, exceto sob encomenda",I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.50-7-05,Fabricação de materiais para medicina e odontologia,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.50-7-07,Fabricação de artigos ópticos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.91-4-00,"Fabricação de escovas, pincéis e vassouras",I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.92-2-01,Fabricação de roupas de proteção e segurança e resistentes a fogo,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.92-2-02,Fabricação de equipamentos e acessórios para segurança pessoal e profissional,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.99-0-01,Fabricação de guarda-chuvas e similares,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.99-0-02,"Fabricação de canetas, lápis e outros artigos para escritório",I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.99-0-03,"Fabricação de letras, letreiros e placas de qualquer material, exceto luminosos",I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.99-0-04,Fabricação de painéis e letreiros luminosos,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.99-0-05,Fabricação de aviamentos para costura,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.99-0-06,"Fabricação de velas, inclusive decorativas",I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.99-0-99,Fabricação de produtos diversos não especificados anteriormente,I - Indústria,Licenciamento Ambiental,-,-,-,-
+32.50-7-06,Serviços de prótese dentária,C - Comercial,-,-,-,-,-
+32.50-7-09,Serviço de laboratório óptico,C - Comercial,-,-,-,-,-
+33.11-2-00,"Manutenção e reparação de tanques, reservatórios metálicos e caldeiras, exceto para veículos",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.13-9-02,"Manutenção e reparação de baterias e acumuladores elétricos, exceto para veículos",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-05,Manutenção e reparação de equipamentos de transmissão para fins industriais,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-06,"Manutenção e reparação de máquinas, aparelhos e equipamentos para instalações térmicas",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-07,Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-08,"Manutenção e reparação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-10,Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-11,Manutenção e reparação de máquinas e equipamentos para agricultura e pecuária,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-13,Manutenção e reparação de máquinas-ferramenta,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-14,Manutenção e reparação de máquinas e equipamentos para a prospecção e extração de petróleo,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-15,"Manutenção e reparação de máquinas e equipamentos para uso na extração mineral, exceto na extração de petróleo",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-17,"Manutenção e reparação de máquinas e equipamentos de terraplenagem, pavimentação e construção, exceto tratores",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-18,"Manutenção e reparação de máquinas para a indústria metalúrgica, exceto máquinas-ferramenta",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-19,"Manutenção e reparação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-20,"Manutenção e reparação de máquinas e equipamentos para a indústria têxtil, do vestuário, do couro e calçados",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-21,"Manutenção e reparação de máquinas e aparelhos para a indústria de celulose, papel e papelão e artefatos",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-22,Manutenção e reparação de máquinas e aparelhos para a indústria do plástico,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-99,Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.19-8-00,Manutenção e reparação de equipamentos e produtos não especificados anteriormente,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.12-1-02,"Manutenção e reparação de aparelhos e instrumentos de medida, teste e controle",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.12-1-04,Manutenção e reparação de equipamentos e instrumentos ópticos,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.13-9-01,"Manutenção e reparação de geradores, transformadores e motores elétricos",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.13-9-99,"Manutenção e reparação de máquinas, aparelhos e materiais elétricos não especificados anteriormente",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-01,Manutenção e reparação de máquinas motrizes não elétricas,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-02,"Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-03,Manutenção e reparação de válvulas industriais,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-04,Manutenção e reparação de compressores,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-09,"Manutenção e reparação de máquinas de escrever, calcular e de outros equipamentos não eletrônicos para escritório",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.21-0-00,Instalação de máquinas e equipamentos industriais,D - Serviço profissional,-,-,-,-,-
+33.29-5-01,Serviços de montagem de móveis de qualquer material,D - Serviço profissional,-,-,-,-,-
+33.29-5-99,Instalação de outros equipamentos não especificados anteriormente,D - Serviço profissional,-,-,-,-,-
+33.12-1-03,Manutenção e reparação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-12,Manutenção e reparação de tratores agrícolas,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.14-7-16,"Manutenção e reparação de tratores, exceto agrícolas",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.15-5-00,Manutenção e reparação de veículos ferroviários,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.16-3-01,"Manutenção e reparação de aeronaves, exceto a manutenção na pista",D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.16-3-02,Manutenção de aeronaves na pista,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.17-1-01,Manutenção e reparação de embarcações e estruturas flutuantes,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+33.17-1-02,Manutenção e reparação de embarcações para esporte e lazer,D - Serviço profissional,Licenciamento Ambiental,-,-,-,-
+35.11-5-01,Geração de energia elétrica,K - Energia,Licenciamento Ambiental,-,-,-,-
+35.11-5-02,Atividades de coordenação e controle da operação da geração e transmissão de energia elétrica,K - Energia,Licenciamento Ambiental,-,-,-,-
+35.12-3-00,Transmissão de energia elétrica,K - Energia,Licenciamento Ambiental,-,-,-,-
+35.14-0-00,Distribuição de energia elétrica,K - Energia,Licenciamento Ambiental,-,-,-,-
+35.13-1-00,Comércio atacadista de energia elétrica,K - Energia,Licenciamento Ambiental,-,-,-,-
+35.30-1-00,"Produção e distribuição de vapor, água quente e ar condicionado",M - Especial,Licenciamento Ambiental,-,-,-,-
+35.20-4-01,Produção de gás; processamento de gás natural,M - Especial,Licenciamento Ambiental,-,-,-,-
+35.20-4-02,Distribuição de combustíveis gasosos por redes urbanas,M - Especial,Licenciamento Ambiental,-,-,-,-
+36.00-6-01,"Captação, tratamento e distribuição de água",M - Especial,Licenciamento Ambiental,-,-,-,-
+36.00-6-02,Distribuição de água por caminhões,M - Especial,Licenciamento Ambiental,-,-,-,-
+37.01-1-00,Gestão de redes de esgoto,M - Especial,Licenciamento Ambiental,-,-,-,-
+37.02-9-00,"Atividades relacionadas a esgoto, exceto a gestão de redes",M - Especial,Licenciamento Ambiental,-,-,-,-
+38.11-4-00,Coleta de resíduos não perigosos,C - Comercial,Licenciamento Ambiental,-,-,-,-
+38.12-2-00,Coleta de resíduos perigosos,C - Comercial,Licenciamento Ambiental,-,-,-,-
+38.21-1-00,Tratamento e disposição de resíduos não perigosos,M - Especial,Licenciamento Ambiental,-,-,-,-
+38.22-0-00,Tratamento e disposição de resíduos perigosos,M - Especial,Licenciamento Ambiental,-,-,-,-
+38.31-9-01,Recuperação de sucatas de alumínio,M - Especial,Licenciamento Ambiental,-,-,-,-
+38.31-9-99,"Recuperação de materiais metálicos, exceto alumínio",M - Especial,Licenciamento Ambiental,-,-,-,-
+38.32-7-00,Recuperação de materiais plásticos,M - Especial,Licenciamento Ambiental,-,-,-,-
+38.39-4-01,Usinas de compostagem,M - Especial,Licenciamento Ambiental,-,-,-,-
+38.39-4-99,Recuperação de materiais não especificados anteriormente,M - Especial,Licenciamento Ambiental,-,-,-,-
+39.00-5-00,Descontaminação e outros serviços de gestão de resíduos,M - Especial,Licenciamento Ambiental,-,-,-,-
+41.10-7-00,Incorporação de empreendimentos imobiliários,C - Comercial,-,-,-,-,SPE: matrícula atualizada + CCV ou permuta
+41.20-4-00,Construção de edifícios,C - Comercial,-,-,-,-,SPE: matrícula atualizada + CCV ou permuta
+42.11-1-01,Construção de rodovias e ferrovias,M - Especial,-,-,-,-,-
+42.11-1-02,Pintura para sinalização em pistas rodoviárias e aeroportos,M - Especial,-,-,-,-,-
+42.12-0-00,Construção de obras de arte especiais,M - Especial,-,-,-,-,-
+42.13-8-00,"Obras de urbanização - ruas, praças e calçadas",M - Especial,-,-,-,-,-
+42.21-9-01,Construção de barragens e represas para geração de energia  elétrica,K - Energia,-,-,-,-,-
+42.21-9-02,Construção de estações e redes de distribuição de energia elétrica,K - Energia,-,-,-,-,-
+42.21-9-03,Manutenção de redes de distribuição de energia elétrica,K - Energia,-,-,-,-,-
+42.21-9-04,Construção de estações e redes de telecomunicações,M - Especial,-,-,-,-,-
+42.21-9-05,Manutenção de estações e redes de telecomunicações,M - Especial,-,-,-,-,-
+42.22-7-01,"Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação",M - Especial,-,-,-,-,-
+42.22-7-02,Obras de irrigação,M - Especial,-,-,-,-,-
+42.23-5-00,"Construção de redes de transportes por dutos, exceto para água e esgoto",M - Especial,-,-,-,-,-
+42.91-0-00,"Obras portuárias, marítimas e fluviais",M - Especial,-,-,-,-,-
+42.92-8-01,Montagem de estruturas metálicas,M - Especial,-,-,-,-,-
+42.92-8-02,Obras de montagem industrial,M - Especial,-,-,-,-,-
+42.99-5-01,Construção de instalações esportivas e recreativas,M - Especial,-,-,-,-,-
+42.99-5-99,Outras obras de engenharia civil não especificadas anteriormente,M - Especial,-,-,-,-,-
+43.11-8-01,Demolição de edifícios e outras estruturas,M - Especial,-,-,-,-,-
+43.11-8-02,Preparação de canteiro e limpeza de terreno,M - Especial,-,-,-,-,-
+43.12-6-00,Perfurações e sondagens,M - Especial,-,-,-,-,-
+43.13-4-00,Obras de terraplenagem,M - Especial,Certidão de conformidade CCA,-,-,-,-
+43.19-3-00,Serviços de preparação do terreno não especificados anteriormente,M - Especial,-,-,-,-,-
+43.21-5-00,Instalação e manutenção elétrica,M - Especial,-,-,-,-,-
+43.22-3-01,"Instalações hidráulicas, sanitárias e de gás",M - Especial,-,-,-,-,-
+43.22-3-02,"Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração",M - Especial,-,-,-,-,-
+43.22-3-03,Instalações de sistema de prevenção contra incêndio,M - Especial,-,-,-,-,-
+43.29-1-01,Instalação de painéis publicitários,M - Especial,-,-,-,-,-
+43.29-1-02,"Instalação de equipamentos para orientação à navegação marítima, fluvial e lacustre",M - Especial,-,-,-,-,-
+43.29-1-03,"Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes",M - Especial,-,-,-,-,-
+43.29-1-04,"Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos",M - Especial,-,-,-,-,-
+43.29-1-05,"Tratamentos térmicos, acústicos ou de vibração",M - Especial,-,-,-,-,-
+43.29-1-99,Outras obras de instalações em construções não especificadas anteriormente,M - Especial,-,-,-,-,-
+43.30-4-01,Impermeabilização em obras de engenharia civil,M - Especial,-,-,-,-,-
+43.30-4-02,"Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material",M - Especial,-,-,-,-,-
+43.30-4-03,Obras de acabamento em gesso e estuque,M - Especial,-,-,-,-,-
+43.30-4-04,Serviços de pintura de edifícios em geral,M - Especial,-,-,-,-,-
+43.30-4-05,Aplicação de revestimentos e de resinas em interiores e exteriores,M - Especial,-,-,-,-,-
+43.30-4-99,Outras obras de acabamento da construção,M - Especial,-,-,-,-,-
+43.91-6-00,Obras de fundações,M - Especial,-,-,-,-,-
+43.99-1-01,Administração de obras,M - Especial,-,-,-,-,-
+43.99-1-02,Montagem e desmontagem de andaimes e outras estruturas temporárias,M - Especial,-,-,-,-,-
+43.99-1-03,Obras de alvenaria,M - Especial,-,-,-,-,-
+43.99-1-04,Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras,M - Especial,-,-,-,-,-
+43.99-1-05,Perfuração e construção de poços de água,M - Especial,-,-,-,-,-
+43.99-1-99,Serviços especializados para construção não especificados anteriormente,M - Especial,-,-,-,-,-
+45.11-1-01,"Comércio a varejo de automóveis, camionetas e utilitários novos",C - Comercial,-,-,-,-,-
+45.11-1-02,"Comércio a varejo de automóveis, camionetas e utilitários usados",C - Comercial,-,-,-,-,-
+45.11-1-03,"Comércio por atacado de automóveis, camionetas e utilitários novos e usados",C - Comercial,-,-,-,-,-
+45.11-1-04,Comércio por atacado de caminhões novos e usados,C - Comercial,-,-,-,-,-
+45.11-1-05,Comércio por atacado de reboques e semireboques novos e usados,C - Comercial,-,-,-,-,-
+45.11-1-06,Comércio por atacado de ônibus e micro-ônibus novos e usados,C - Comercial,-,-,-,-,-
+45.12-9-02,Comércio sob consignação de veículos automotores,C - Comercial,-,-,-,-,-
+45.20-0-03,Serviços de manutenção e reparação elétrica de veículos automotores,C - Comercial,-,-,-,-,-
+45.20-0-04,Serviços de alinhamento e balanceamento de veículos automotores,C - Comercial,-,-,-,-,-
+45.20-0-07,"Serviços de instalação, manutenção e reparação de acessórios para veículos automotores",C - Comercial,-,-,-,-,-
+45.20-0-08,Serviços de capotaria,C - Comercial,-,-,-,-,-
+45.30-7-01,Comércio por atacado de peças e acessórios novos para veículos automotores,C - Comercial ou J - Depósitos,-,-,-,-,-
+45.30-7-03,Comércio a varejo de peças e acessórios novos para veículos automotores,C - Comercial ou J - Depósitos,-,-,-,-,-
+45.41-2-01,Comércio por atacado de motocicletas e motonetas,C - Comercial ou J - Depósitos,-,-,-,-,-
+45.41-2-02,Comércio por atacado de peças e acessórios para motocicletas e motonetas,C - Comercial ou J - Depósitos,-,-,-,-,-
+45.41-2-03,Comércio a varejo de motocicletas e motonetas novas,C - Comercial ou J - Depósitos,-,-,-,-,-
+45.41-2-04,Comércio a varejo de motocicletas e motonetas usadas,C - Comercial ou J - Depósitos,-,-,-,-,-
+45.41-2-06,Comércio a varejo de peças e acessórios novos para motocicletas e motonetas,C - Comercial ou J - Depósitos,-,-,-,-,-
+45.41-2-07,Comércio a varejo de peças e acessórios usados para motocicletas e motonetas,C - Comercial ou J - Depósitos,-,-,-,-,-
+45.42-1-02,Comércio sob consignação de motocicletas e motonetas,C - Comercial ou J - Depósitos,-,-,-,-,-
+45.12-9-01,Representantes comerciais e agentes do comércio de veículos automotores,C - Comercial,-,-,-,-,-
+45.30-7-06,Representantes comerciais e agentes do comércio de peças e acessórios novos e usados para veículos automotores,C - Comercial,-,-,-,-,-
+45.42-1-01,"Representantes comerciais e agentes do comércio de motocicletas e motonetas, peças e acessórios",C - Comercial,-,-,-,-,-
+45.20-0-01,Serviços de manutenção e reparação mecânica de veículos automotores,G - Serviço automotivo,Certidão de conformidade CCA,-,-,-,-
+45.20-0-02,Serviços de lanternagem ou funilaria e pintura de veículos automotores,G - Serviço automotivo,Certidão de conformidade CCA,-,-,-,-
+45.20-0-05,"Serviços de lavagem, lubrificação e polimento de veículos automotores",G - Serviço automotivo,Certidão de conformidade CCA,-,-,-,-
+45.20-0-06,Serviços de borracharia para veículos automotores,G - Serviço automotivo,Certidão de conformidade CCA,-,-,-,-
+45.30-7-02,Comércio por atacado de pneumáticos e câmaras-de-ar,G - Serviço automotivo,Certidão de conformidade CCA,-,-,-,-
+45.30-7-04,Comércio a varejo de peças e acessórios usados para veículos automotores,G - Serviço automotivo,Certidão de conformidade CCA,-,-,-,-
+45.30-7-05,Comércio a varejo de pneumáticos e câmaras-de-ar,G - Serviço automotivo,Certidão de conformidade CCA,-,-,-,-
+45.43-9-00,Manutenção e reparação de motocicletas e motonetas,G - Serviço automotivo,Certidão de conformidade CCA,-,-,-,-
+46.11-7-00,Representantes comerciais e agentes do comércio de matérias-primas agrícolas e animais vivos,C - Comercial,-,-,-,-,-
+46.12-5-00,"Representantes comerciais e agentes do comércio de combustíveis, minerais, produtos siderúrgicos e químicos",C - Comercial,-,-,-,-,-
+46.13-3-00,"Representantes comerciais e agentes do comércio de madeira, material de construção e ferragens",C - Comercial,-,-,-,-,-
+46.14-1-00,"Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves",C - Comercial,-,-,-,-,-
+46.15-0-00,"Representantes comerciais e agentes do comércio de eletrodomésticos, móveis e artigos de uso doméstico",C - Comercial,-,-,-,-,-
+46.16-8-00,"Representantes comerciais e agentes do comércio de têxteis, vestuário, calçados e artigos de viagem",C - Comercial,-,-,-,-,-
+46.17-6-00,"Representantes comerciais e agentes do comércio de produtos alimentícios, bebidas e fumo",C - Comercial,-,-,-,-,-
+46.18-4-01,"Representantes comerciais e agentes do comércio de medicamentos, cosméticos e produtos de perfumaria",C - Comercial,-,-,-,-,-
+46.18-4-02,Representantes comerciais e agentes do comércio de instrumentos e materiais odonto-médico-hospitalares,C - Comercial,-,-,-,-,-
+46.18-4-03,"Representantes comerciais e agentes do comércio de jornais, revistas e outras publicações",C - Comercial,-,-,-,-,-
+46.18-4-99,Outros representantes comerciais e agentes do comércio especializado em produtos não especificados anteriormente,C - Comercial,-,-,-,-,-
+46.19-2-00,Representantes comerciais e agentes do comércio de mercadorias em geral não especializado,C - Comercial,-,-,-,-,-
+46.21-4-00,Comércio atacadista de café em grão,J - Depósitos,-,-,-,-,-
+46.22-2-00,Comércio atacadista de soja,J - Depósitos,-,-,-,-,-
+46.23-1-05,Comércio atacadista de cacau,J - Depósitos,-,-,-,-,-
+46.31-1-00,Comércio atacadista de leite e laticínios,J - Depósitos,-,-,-,-,-
+46.32-0-01,Comércio atacadista de cereais e leguminosas beneficiados,J - Depósitos,-,-,-,-,-
+46.32-0-02,"Comércio atacadista de farinhas, amidos e féculas",J - Depósitos,-,-,-,-,-
+46.32-0-03,"Comércio atacadista de cereais e leguminosas beneficiados, farinhas, amidos e féculas, com atividade de fracionamento e acondicionamento associada",J - Depósitos,-,-,-,-,-
+46.33-8-01,"Comércio atacadista de frutas, verduras, raízes, tubérculos, hortaliças e legumes frescos",J - Depósitos,-,-,-,-,-
+46.35-4-01,Comércio atacadista de água mineral,J - Depósitos,-,-,-,-,-
+46.35-4-02,"Comércio atacadista de cerveja, chope e refrigerante",J - Depósitos,-,-,-,-,-
+46.35-4-03,Comércio atacadista de bebidas com atividade de fracionamento e acondicionamento associada,J - Depósitos,-,-,-,-,-
+46.35-4-99,Comércio atacadista de bebidas não especificadas anteriormente,J - Depósitos,-,-,-,-,-
+46.37-1-01,"Comércio atacadista de café torrado, moído e solúvel",J - Depósitos,-,-,-,-,-
+46.37-1-02,Comércio atacadista de açúcar,J - Depósitos,-,-,-,-,-
+46.37-1-03,Comércio atacadista de óleos e gorduras,J - Depósitos,-,-,-,-,-
+46.37-1-04,"Comércio atacadista de pães, bolos, biscoitos e similares",J - Depósitos,-,-,-,-,-
+46.37-1-05,Comércio atacadista de massas alimentícias,J - Depósitos,-,-,-,-,-
+46.37-1-06,Comércio atacadista de sorvetes,J - Depósitos,-,-,-,-,-
+46.37-1-07,"Comércio atacadista de chocolates, confeitos, balas, bombons e semelhantes",J - Depósitos,-,-,-,-,-
+46.37-1-99,Comércio atacadista especializado em outros produtos alimentícios não especificados anteriormente,J - Depósitos,-,-,-,-,-
+46.39-7-01,Comércio atacadista de produtos alimentícios em geral,J - Depósitos,-,-,-,-,-
+46.39-7-02,"Comércio atacadista de produtos alimentícios em geral, com atividade de fracionamento e acondicionamento associada",J - Depósitos,-,-,-,-,-
+46.86-9-02,Comércio atacadista de embalagens,J - Depósitos,-,-,-,-,-
+46.23-1-01,Comércio atacadista de animais vivos,J - Depósitos,-,-,-,-,-
+46.23-1-08,Comércio atacadista de matérias-primas agrícolas com atividade de fracionamento e acondicionamento associada,J - Depósitos,-,-,-,-,-
+46.33-8-02,Comércio atacadista de aves vivas e ovos,J - Depósitos,-,-,-,-,-
+46.33-8-03,Comércio atacadista de coelhos e outros pequenos animais vivos para alimentação,J - Depósitos,-,-,-,-,-
+46.74-5-00,Comércio atacadista de cimento,J - Depósitos,-,-,-,-,-
+46.79-6-01,"Comércio atacadista de tintas, vernizes e similares",J - Depósitos,-,-,-,-,-
+46.79-6-04,Comércio atacadista especializado de materiais de construção não especificados anteriormente,J - Depósitos,-,-,-,-,-
+46.79-6-99,Comércio atacadista de materiais de construção em geral,J - Depósitos,-,-,-,-,-
+46.81-8-01,"Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado por transportador retalhista (TRR)",M - Especial,-,-,Parecer da defesa civil,-,-
+46.81-8-02,Comércio atacadista de combustíveis realizado por transportador retalhista (TRR),M - Especial,Licenciamento Ambiental,-,Parecer da defesa civil,-,-
+46.81-8-03,"Comércio atacadista de combustíveis de origem vegetal, exceto álcool carburante",M - Especial,Licenciamento Ambiental,-,Parecer da defesa civil,-,-
+46.81-8-04,Comércio atacadista de combustíveis de origem mineral em bruto,M - Especial,Licenciamento Ambiental,-,Parecer da defesa civil,-,-
+46.81-8-05,Comércio atacadista de lubrificantes,J - Depósitos,-,-,-,-,-
+46.82-6-00,Comércio atacadista de gás liquefeito de petróleo (GLP),M - Especial,-,Autorização da ANP,Parecer da defesa civil,-,-
+46.83-4-00,"Comércio atacadista de defensivos agrícolas, adubos, fertilizantes e corretivos do solo",J - Depósitos,-,-,-,-,-
+46.84-2-01,Comércio atacadista de resinas e elastômeros,J - Depósitos,-,-,-,-,-
+46.84-2-02,Comércio atacadista de solventes,J - Depósitos,-,-,-,-,-
+46.84-2-99,Comércio atacadista de outros produtos químicos e petroquímicos não especificados anteriormente,J - Depósitos,-,-,-,-,-
+46.86-9-01,Comércio atacadista de papel e papelão em bruto,J - Depósitos,-,-,-,-,-
+46.87-7-01,Comércio atacadista de resíduos de papel e papelão,J - Depósitos,Licenciamento Ambiental,-,-,-,-
+46.87-7-02,"Comércio atacadista de resíduos e sucatas não metálicos, exceto de papel e papelão",J - Depósitos,Licenciamento Ambiental,-,-,-,-
+46.87-7-03,Comércio atacadista de resíduos e sucatas metálicos,J - Depósitos,Licenciamento Ambiental,-,-,-,-
+46.23-1-02,"Comércio atacadista de couros, lãs, peles e outros subprodutos não comestíveis de origem animal",J - Depósitos,-,-,-,-,-
+46.23-1-03,Comércio atacadista de algodão,J - Depósitos,-,-,-,-,-
+46.23-1-04,Comércio atacadista de fumo em folha não beneficiado,J - Depósitos,-,-,-,-,-
+46.23-1-06,"Comércio atacadista de sementes, flores, plantas e gramas",J - Depósitos,-,-,-,-,-
+46.23-1-07,Comércio atacadista de sisal,J - Depósitos,-,-,-,-,-
+46.23-1-09,Comércio atacadista de alimentos para animais,J - Depósitos,-,-,-,-,-
+46.23-1-99,Comércio atacadista de matérias-primas agrícolas não especificadas anteriormente,J - Depósitos,-,-,-,-,-
+46.36-2-01,Comércio atacadista de fumo beneficiado,J - Depósitos,-,-,-,-,-
+46.36-2-02,"Comércio atacadista de cigarros, cigarrilhas e charutos",J - Depósitos,-,-,-,-,-
+46.41-9-01,Comércio atacadista de tecidos,J - Depósitos,-,-,-,-,-
+46.41-9-02,"Comércio atacadista de artigos de cama, mesa e banho",J - Depósitos,-,-,-,-,-
+46.41-9-03,Comércio atacadista de artigos de armarinho,J - Depósitos,-,-,-,-,-
+46.42-7-01,"Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança",J - Depósitos,-,-,-,-,-
+46.42-7-02,Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho,J - Depósitos,-,-,-,-,-
+46.43-5-01,Comércio atacadista de calçados,J - Depósitos,-,-,-,-,-
+46.43-5-02,"Comércio atacadista de bolsas, malas e artigos de viagem",J - Depósitos,-,-,-,-,-
+46.44-3-01,Comércio atacadista de medicamentos e drogas de uso humano,J - Depósitos,-,-,-,-,-
+46.44-3-02,Comércio atacadista de medicamentos e drogas de uso veterinário,J - Depósitos,-,-,-,-,-
+46.45-1-01,"Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios",J - Depósitos,-,-,-,-,-
+46.45-1-02,Comércio atacadista de próteses e artigos de ortopedia,J - Depósitos,-,-,-,-,-
+46.45-1-03,Comércio atacadista de produtos odontológicos,J - Depósitos,-,-,-,-,-
+46.46-0-01,Comércio atacadista de cosméticos e produtos de perfumaria,J - Depósitos,-,-,-,-,-
+46.46-0-02,Comércio atacadista de produtos de higiene pessoal,J - Depósitos,-,-,-,-,-
+46.47-8-01,Comércio atacadista de artigos de escritório e de papelaria,J - Depósitos,-,-,-,-,-
+46.47-8-02,"Comércio atacadista de livros, jornais e outras publicações",J - Depósitos,-,-,-,-,-
+46.49-4-01,Comércio atacadista de equipamentos elétricos de uso pessoal e doméstico,J - Depósitos,-,-,-,-,-
+46.49-4-02,Comércio atacadista de aparelhos eletrônicos de uso pessoal e doméstico,J - Depósitos,-,-,-,-,-
+46.49-4-03,"Comércio atacadista de bicicletas, triciclos e outros veículos recreativos",J - Depósitos,-,-,-,-,-
+46.49-4-04,Comércio atacadista de móveis e artigos de colchoaria,J - Depósitos,-,-,-,-,-
+46.49-4-05,Comércio atacadista de artigos de tapeçaria; persianas e cortinas,J - Depósitos,-,-,-,-,-
+46.49-4-06,"Comércio atacadista de lustres, luminárias e abajures",J - Depósitos,-,-,-,-,-
+46.49-4-07,"Comércio atacadista de filmes, CDs, DVDs, fitas e discos",J - Depósitos,-,-,-,-,-
+46.49-4-08,"Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar",J - Depósitos,-,-,-,-,-
+46.49-4-09,"Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar, com atividade de fracionamento e acondicionamento associada",J - Depósitos,-,-,-,-,-
+46.49-4-10,"Comércio atacadista de jóias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas",J - Depósitos,-,-,-,-,-
+46.49-4-99,Comércio atacadista de outros equipamentos e artigos de uso pessoal e doméstico não especificados anteriormente,J - Depósitos,-,-,-,-,-
+46.51-6-01,Comércio atacadista de equipamentos de informática,J - Depósitos,-,-,-,-,-
+46.51-6-02,Comércio atacadista de suprimentos para informática,J - Depósitos,-,-,-,-,-
+46.52-4-00,Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação,J - Depósitos,-,-,-,-,-
+46.61-3-00,"Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário; partes e peças",J - Depósitos,-,-,-,-,-
+46.62-1-00,"Comércio atacadista de máquinas, equipamentos para terraplenagem, mineração e construção; partes e peças",J - Depósitos,-,-,-,-,-
+46.63-0-00,Comércio atacadista de máquinas e equipamentos para uso industrial; partes e peças,J - Depósitos,-,-,-,-,-
+46.64-8-00,"Comércio atacadista de máquinas, aparelhos e equipamentos para uso odonto-médico-hospitalar; partes e peças",J - Depósitos,-,-,-,-,-
+46.65-6-00,Comércio atacadista de máquinas e equipamentos para uso comercial; partes e peças,J - Depósitos,-,-,-,-,-
+46.69-9-01,Comércio atacadista de bombas e compressores; partes e peças,J - Depósitos,-,-,-,-,-
+46.69-9-99,Comércio atacadista de outras máquinas e equipamentos não especificados anteriormente; partes e peças,J - Depósitos,-,-,-,-,-
+46.71-1-00,Comércio atacadista de madeira e produtos derivados,J - Depósitos,-,-,-,-,-
+46.72-9-00,Comércio atacadista de ferragens e ferramentas,J - Depósitos,-,-,-,-,-
+46.73-7-00,Comércio atacadista de material elétrico,J - Depósitos,-,-,-,-,-
+46.79-6-02,Comércio atacadista de mármores e granitos,J - Depósitos,-,-,-,-,-
+46.79-6-03,"Comércio atacadista de vidros, espelhos e vitrais",J - Depósitos,-,-,-,-,-
+46.85-1-00,"Comércio atacadista de produtos siderúrgicos e metalúrgicos, exceto para construção",J - Depósitos,-,-,-,-,-
+46.89-3-01,"Comércio atacadista de produtos da extração mineral, exceto combustíveis",J - Depósitos,Licenciamento Ambiental,Autorização da ANP,Parecer da defesa civil,-,-
+46.89-3-02,Comércio atacadista de fios e fibras beneficiados,J - Depósitos,-,-,-,-,-
+46.89-3-99,Comércio atacadista especializado em outros produtos intermediários não especificados anteriormente,J - Depósitos,-,-,-,-,-
+46.91-5-00,"Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios",J - Depósitos,-,-,-,-,-
+46.92-3-00,"Comércio atacadista de mercadorias em geral, com predominância de insumos agropecuários",J - Depósitos,-,-,-,-,-
+46.93-1-00,"Comércio atacadista de mercadorias em geral, sem predominância de alimentos ou de insumos agropecuários",J - Depósitos,-,-,-,-,-
+46.34-6-01,Comércio atacadista de carnes bovinas e suínas e derivados,J - Depósitos,-,-,-,-,-
+46.34-6-02,Comércio atacadista de aves abatidas e derivados,J - Depósitos,-,-,-,-,-
+46.34-6-03,Comércio atacadista de pescados e frutos do mar,J - Depósitos,-,-,-,-,-
+46.34-6-99,Comércio atacadista de carnes e derivados de outros animais,J - Depósitos,-,-,-,-,-
+47.11-3-01,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados",C - Comercial,-,-,-,-,-
+47.11-3-02,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",C - Comercial,-,-,-,-,-
+47.12-1-00,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns",C - Comercial,-,-,-,-,-
+47.13-0-02,"Lojas de variedades, exceto lojas de departamentos ou magazines",C - Comercial,-,-,-,-,-
+47.13-0-04,"Lojas de departamentos ou magazines, exceto lojas francas (Duty free)",C - Comercial,-,-,-,-,-
+47.13-0-05,"Lojas francas (Duty Free) de aeroportos, portos e em fronteiras terrestres",C - Comercial,-,-,-,-,-
+47.22-9-01,Comércio varejista de carnes - açougues,C - Comercial,-,-,-,-,-
+47.22-9-02,Peixaria,C - Comercial,-,-,-,-,-
+47.29-6-01,Tabacaria,C - Comercial,-,-,-,-,-
+47.29-6-99,Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente,C - Comercial,-,-,-,-,-
+47.42-3-00,Comércio varejista de material elétrico,C - Comercial,-,-,-,-,-
+47.43-1-00,Comércio varejista de vidros,C - Comercial,-,-,-,-,-
+47.44-0-01,Comércio varejista de ferragens e ferramentas,C - Comercial,-,-,-,-,-
+47.44-0-02,Comércio varejista de madeira e artefatos,C - Comercial,-,-,-,-,-
+47.44-0-03,Comércio varejista de materiais hidráulicos,C - Comercial,-,-,-,-,-
+47.44-0-04,"Comércio varejista de cal, areia, pedra britada, tijolos e telhas",C - Comercial,-,-,-,-,-
+47.44-0-05,Comércio varejista de materiais de construção não especificados anteriormente,C - Comercial,-,-,-,-,-
+47.44-0-06,Comércio varejista de pedras para revestimento,C - Comercial,-,-,-,-,-
+47.44-0-99,Comércio varejista de materiais de construção em geral,C - Comercial,-,-,-,-,-
+47.51-2-01,Comércio varejista especializado de equipamentos e suprimentos de informática,C - Comercial,-,-,-,-,-
+47.51-2-02,Recarga de cartuchos para equipamentos de informática,C - Comercial,-,-,-,-,-
+47.52-1-00,Comércio varejista especializado de equipamentos de telefonia e comunicação,C - Comercial,-,-,-,-,-
+47.53-9-00,Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo,C - Comercial,-,-,-,-,-
+47.54-7-01,Comércio varejista de móveis,C - Comercial,-,-,-,-,-
+47.54-7-02,Comércio varejista de artigos de colchoaria,C - Comercial,-,-,-,-,-
+47.54-7-03,Comércio varejista de artigos de iluminação,C - Comercial,-,-,-,-,-
+47.55-5-01,Comércio varejista de tecidos,C - Comercial,-,-,-,-,-
+47.55-5-02,Comercio varejista de artigos de armarinho,C - Comercial,-,-,-,-,-
+47.55-5-03,"Comercio varejista de artigos de cama, mesa e banho",C - Comercial,-,-,-,-,-
+47.56-3-00,Comércio varejista especializado de instrumentos musicais e acessórios,C - Comercial,-,-,-,-,-
+47.57-1-00,"Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação",C - Comercial,-,-,-,-,-
+47.59-8-01,"Comércio varejista de artigos de tapeçaria, cortinas e persianas",C - Comercial,-,-,-,-,-
+47.59-8-99,Comércio varejista de outros artigos de uso doméstico não especificados anteriormente,C - Comercial,-,-,-,-,-
+47.61-0-01,Comércio varejista de livros,C - Comercial,-,-,-,-,-
+47.61-0-02,Comércio varejista de jornais e revistas,C - Comercial,-,-,-,-,-
+47.61-0-03,Comércio varejista de artigos de papelaria,C - Comercial,-,-,-,-,-
+47.62-8-00,"Comércio varejista de discos, CDs, DVDs e fitas",C - Comercial,-,-,-,-,-
+47.63-6-01,Comércio varejista de brinquedos e artigos recreativos,C - Comercial,-,-,-,-,-
+47.63-6-02,Comércio varejista de artigos esportivos,C - Comercial,-,-,-,-,-
+47.63-6-03,Comércio varejista de bicicletas e triciclos; peças e acessórios,C - Comercial,-,-,-,-,-
+47.63-6-04,"Comércio varejista de artigos de caça, pesca e camping",C - Comercial,-,-,-,-,-
+47.63-6-05,Comércio varejista de embarcações e outros veículos recreativos; peças e acessórios,C - Comercial,-,-,-,-,-
+47.71-7-02,"Comércio varejista de produtos farmacêuticos, com manipulação de fórmulas",C - Comercial,-,-,-,-,-
+47.71-7-03,Comércio varejista de produtos farmacêuticos homeopáticos,C - Comercial,-,-,-,-,-
+47.71-7-04,Comércio varejista de medicamentos veterinários,C - Comercial,-,-,-,-,-
+47.81-4-00,Comércio varejista de artigos do vestuário e acessórios,C - Comercial,-,-,-,-,-
+47.82-2-01,Comércio varejista de calçados,C - Comercial,-,-,-,-,-
+47.82-2-02,Comércio varejista de artigos de viagem,C - Comercial,-,-,-,-,-
+47.83-1-01,Comércio varejista de artigos de joalheria,C - Comercial,-,-,-,-,-
+47.83-1-02,Comércio varejista de artigos de relojoaria,C - Comercial,-,-,-,-,-
+47.85-7-01,Comércio varejista de antiguidades,C - Comercial,-,-,-,-,-
+47.85-7-99,Comércio varejista de outros artigos usados,C - Comercial,-,-,-,-,-
+47.89-0-01,"Comércio varejista de suvenires, bijuterias e artesanatos",C - Comercial,-,-,-,-,-
+47.89-0-02,Comércio varejista de plantas e flores naturais,C - Comercial,-,-,-,-,-
+47.89-0-03,Comércio varejista de objetos de arte,C - Comercial,-,-,-,-,-
+47.89-0-05,Comércio varejista de produtos saneantes domissanitários,C - Comercial,-,-,-,-,-
+47.89-0-07,Comércio varejista de equipamentos para escritório,C - Comercial,-,-,-,-,-
+47.89-0-08,Comércio varejista de artigos fotográficos e para filmagem,C - Comercial,-,-,-,-,-
+47.89-0-99,Comércio varejista de outros produtos não especificados anteriormente,C - Comercial,-,-,-,-,-
+47.21-1-02,Padaria e confeitaria com predominância de revenda,C - Comercial,-,-,-,-,-
+47.21-1-03,Comércio varejista de laticínios e frios,C - Comercial,-,-,-,-,-
+47.21-1-04,"Comércio varejista de doces, balas, bombons e semelhantes",C - Comercial,-,-,-,-,-
+47.23-7-00,Comércio varejista de bebidas,C - Comercial,-,-,-,-,-
+47.24-5-00,Comércio varejista de hortifrutigranjeiros,C - Comercial,-,-,-,-,-
+47.29-6-02,Comércio varejista de mercadorias em lojas de conveniência,C - Comercial,-,-,-,-,-
+47.71-7-01,"Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas",C - Comercial,-,-,-,-,-
+47.72-5-00,"Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal",C - Comercial,-,-,-,-,-
+47.73-3-00,Comércio varejista de artigos médicos e ortopédicos,C - Comercial,-,-,-,-,-
+47.74-1-00,Comércio varejista de artigos de óptica,C - Comercial,-,-,-,-,-
+47.31-8-00,Comércio varejista de combustíveis para veículos automotores,C - Comercial,Licenciamento Ambiental,Autorização da ANP,Parecer da defesa civil,-,-
+47.32-6-00,Comércio varejista de lubrificantes,C - Comercial,-,-,-,-,-
+47.41-5-00,Comércio varejista de tintas e materiais para pintura,C - Comercial,-,-,-,-,-
+47.84-9-00,Comércio varejista de gás liqüefeito de petróleo (GLP),M - Especial,-,Autorização da ANP,-,-,-
+47.89-0-04,Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação,C - Comercial,-,-,-,-,-
+47.89-0-06,Comércio varejista de fogos de artifício e artigos pirotécnicos,L - Explosivo,-,-,Parecer da defesa civil,-,-
+47.89-0-09,Comércio varejista de armas e munições,L - Explosivo,-,Autorização Polícia Federal,Parecer da defesa civil,-,-
+49.11-6-00,Transporte ferroviário de carga,M - Especial,-,-,-,-,-
+49.12-4-01,Transporte ferroviário de passageiros intermunicipal e interestadual,M - Especial,-,-,-,-,-
+49.12-4-02,Transporte ferroviário de passageiros municipal e em região metropolitana,M - Especial,-,-,-,-,-
+49.12-4-03,Transporte metroviário,M - Especial,-,-,-,-,-
+49.21-3-01,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal",M - Especial,-,-,-,-,-
+49.21-3-02,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal em região metropolitana",M - Especial,-,-,-,-,-
+49.22-1-01,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal, exceto em região metropolitana",M - Especial,-,-,-,-,-
+49.22-1-02,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, interestadual",M - Especial,-,-,-,-,-
+49.22-1-03,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, internacional",M - Especial,-,-,-,-,-
+49.23-0-01,Serviço de táxi,C - Comercial,-,-,-,-,Verificar documentação no Empreenda Itajaí
+49.24-8-00,Transporte escolar,C - Comercial,-,-,-,-,Verificar documentação no Empreenda Itajaí
+49.30-2-03,Transporte rodoviário de produtos perigosos,C - Comercial,-,-,Parecer da defesa civil,-,-
+49.40-0-00,Transporte dutoviário,C - Comercial,-,-,-,-,-
+49.50-7-00,"Trens turísticos, teleféricos e similares",C - Comercial,-,-,-,-,-
+49.23-0-02,Serviço de transporte de passageiros - locação de automóveis com motorista,C - Comercial,-,-,-,-,-
+49.29-9-01,"Transporte rodoviário coletivo de passageiros, sob regime de fretamento, municipal",C - Comercial,-,-,-,-,-
+49.29-9-02,"Transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional",C - Comercial,-,-,-,-,-
+49.29-9-03,"Organização de excursões em veículos rodoviários próprios, municipal",C - Comercial,-,-,-,-,-
+49.29-9-04,"Organização de excursões em veículos rodoviários próprios, intermunicipal, interestadual e internacional",C - Comercial,-,-,-,-,-
+49.29-9-99,Outros transportes rodoviários de passageiros não especificados anteriormente,C - Comercial,-,-,-,-,-
+49.30-2-01,"Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal",C - Comercial,-,-,-,-,-
+49.30-2-02,"Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional",C - Comercial,-,-,-,-,-
+49.30-2-04,Transporte rodoviário de mudanças,C - Comercial,-,-,-,-,-
+50.11-4-01,Transporte marítimo de cabotagem - Carga,C - Comercial,-,Autorização da ANTAC,-,-,-
+50.11-4-02,Transporte marítimo de cabotagem - Passageiros,C - Comercial,-,Autorização da ANTAC,-,-,-
+50.12-2-01,Transporte marítimo de longo curso - Carga,C - Comercial,-,Autorização da ANTAC,-,-,-
+50.12-2-02,Transporte marítimo de longo curso - Passageiros,C - Comercial,-,Autorização da ANTAC,-,-,-
+50.21-1-01,"Transporte por navegação interior de carga, municipal, exceto travessia",C - Comercial,-,Autorização da ANTAC,-,-,-
+50.21-1-02,"Transporte por navegação interior de carga, intermunicipal, interestadual e internacional, exceto travessia",C - Comercial,-,Autorização da ANTAC,-,-,-
+50.22-0-01,"Transporte por navegação interior de passageiros em linhas regulares, municipal, exceto travessia",C - Comercial,-,Autorização da ANTAC,-,-,-
+50.22-0-02,"Transporte por navegação interior de passageiros em linhas regulares, intermunicipal, interestadual e internacional, exceto travessia",C - Comercial,-,Autorização da ANTAC,-,-,-
+50.91-2-01,"Transporte por navegação de travessia, municipal",C - Comercial,-,Autorização da ANTAC,-,-,-
+50.91-2-02,"Transporte por navegação de travessia, intermunicipal, interestadual e internacional",C - Comercial,-,Autorização da ANTAC,-,-,-
+50.99-8-01,Transporte aquaviário para passeios turísticos,C - Comercial,-,Autorização da ANTAC,-,-,-
+50.99-8-99,Outros transportes aquaviários não especificados anteriormente,C - Comercial,-,Autorização da ANTAC,-,-,-
+50.30-1-01,Navegação de apoio marítimo,C - Comercial,-,Autorização da ANTAC,-,-,-
+50.30-1-02,Navegação de apoio portuário,C - Comercial,-,Autorização da ANTAC,-,-,-
+50.30-1-03,Serviço de rebocadores e empurradores,C - Comercial,-,Autorização da ANTAC,-,-,-
+51.11-1-00,Transporte aéreo de passageiros regular,M - Especial,-,Autorização ANAC,-,-,-
+51.12-9-01,Serviço de táxi aéreo e locação de aeronaves com tripulação,M - Especial,-,Autorização ANAC,-,-,-
+51.12-9-99,Outros serviços de transporte aéreo de passageiros não regular,M - Especial,-,Autorização ANAC,-,-,-
+51.20-0-00,Transporte aéreo de carga,M - Especial,-,Autorização ANAC,-,-,-
+51.30-7-00,Transporte espacial,M - Especial,-,Autorização ANAC,-,-,-
+52.11-7-01,Armazéns gerais - emissão de warrant,J - Depósitos,-,-,-,-,-
+52.11-7-02,Guarda-móveis,J - Depósitos,-,-,-,-,-
+52.11-7-99,"Depósitos de mercadorias para terceiros, exceto armazéns gerais e guarda-móveis",J - Depósitos,-,-,-,-,-
+52.21-4-00,"Concessionárias de rodovias, pontes, túneis e serviços relacionados",J - Depósitos,-,-,-,-,-
+52.22-2-00,Terminais rodoviários e ferroviários,M - Especial,-,-,-,-,-
+52.23-1-00,Estacionamento de veículos,C - Comercial,-,-,-,-,-
+52.31-1-01,Administração da infraestrutura portuária,M - Especial,-,-,-,-,-
+52.31-1-02,Atividades do Operador Portuário,C - Comercial,-,-,-,-,-
+52.31-1-03,Gestão de terminais aquaviários,C - Comercial,-,-,-,-,-
+52.40-1-01,Operação dos aeroportos e campos de aterrissagem,C - Comercial,-,-,-,-,-
+52.50-8-01,Comissaria de despachos,C - Comercial,-,-,-,-,-
+52.12-5-00,Carga e descarga,C - Comercial,-,-,-,-,-
+52.29-0-01,"Serviços de apoio ao transporte por táxi, inclusive centrais de chamada",C - Comercial,-,-,-,-,-
+52.29-0-02,Serviços de reboque de veículos,C - Comercial,-,-,-,-,-
+52.29-0-99,Outras atividades auxiliares dos transportes terrestres não especificadas anteriormente,C - Comercial,-,-,-,-,-
+52.32-0-00,Atividades de agenciamento marítimo,C - Comercial,-,-,-,-,-
+52.39-7-01,Serviços de praticagem,C - Comercial,-,-,-,-,-
+52.39-7-99,Atividades auxiliares dos transportes aquaviários não especificadas anteriormente,C - Comercial,-,-,-,-,-
+52.40-1-99,"Atividades auxiliares dos transportes aéreos, exceto operação dos aeroportos e campos de aterrissagem",C - Comercial,-,-,-,-,-
+52.50-8-02,Atividades de despachantes aduaneiros,C - Comercial,-,-,-,-,-
+52.50-8-03,"Agenciamento de cargas, exceto para o transporte marítimo",C - Comercial,-,-,-,-,-
+52.50-8-04,Organização logística do transporte de carga,C - Comercial,-,-,-,-,-
+52.50-8-05,Operador de transporte multimodal - OTM,J - Depósitos,-,-,-,-,-
+53.10-5-01,Atividades do Correio Nacional,C - Comercial,-,-,-,-,-
+53.10-5-02,Atividades de franqueadas e permissionárias do Correio Nacional,C - Comercial,-,-,-,-,-
+53.20-2-01,Serviços de malote não realizados pelo Correio Nacional,C - Comercial,-,-,-,-,-
+53.20-2-02,Serviços de entrega rápida,D - Serviço Profissional,-,-,-,-,-
+55.10-8-01,Hotéis,B - Serviço de Hospedagem,-,-,-,-,-
+55.10-8-02,Apart-hotéis,B - Serviço de Hospedagem,-,-,-,-,-
+55.10-8-03,Motéis,B - Serviço de Hospedagem,-,-,-,-,-
+55.90-6-01,"Albergues, exceto assistenciais",B - Serviço de Hospedagem,-,-,-,-,-
+55.90-6-02,Campings,B - Serviço de Hospedagem,-,-,-,-,-
+55.90-6-03,Pensões (alojamento),B - Serviço de Hospedagem,-,-,-,-,-
+55.90-6-99,Outros alojamentos não especificados anteriormente,B - Serviço de Hospedagem,-,-,-,-,-
+56.11-2-01,Restaurantes e similares,F - Local de reunião de público,-,-,-,-,-
+56.11-2-05,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",F - Local de reunião de público,-,-,-,Laudo acústico com ART,-
+56.11-2-03,"Lanchonetes, casas de chá, de sucos e similares",F - Local de reunião de público,-,-,-,-,-
+56.11-2-04,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",F - Local de reunião de público,-,-,-,-,-
+56.20-1-03,Cantinas - serviços de alimentação privativos,F - Local de reunião de público,-,-,-,-,-
+56.12-1-00,Serviços ambulantes de alimentação,C - Comercial,-,-,-,-,-
+56.20-1-01,Fornecimento de alimentos preparados preponderantemente para empresas,C - Comercial,-,-,-,-,-
+56.20-1-02,Serviços de alimentação para eventos e recepções - bufê,C - Comercial,-,-,-,-,-
+56.20-1-04,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,C - Comercial,-,-,-,-,-
+58.11-5-00,Edição de livros,C - Comercial,-,-,-,-,-
+58.12-3-01,Edição de jornais diários,C - Comercial,-,-,-,-,-
+58.12-3-02,Edição de jornais não diários,C - Comercial,-,-,-,-,-
+58.13-1-00,Edição de revistas,C - Comercial,-,-,-,-,-
+58.19-1-00,"Edição de cadastros, listas e outros produtos gráficos",C - Comercial,-,-,-,-,-
+58.21-2-00,Edição integrada à impressão de livros,C - Comercial,-,-,-,-,-
+58.22-1-01,Edição integrada à impressão de jornais diários,C - Comercial,-,-,-,-,-
+58.22-1-02,Edição integrada à impressão de jornais não diários,C - Comercial,-,-,-,-,-
+58.23-9-00,Edição integrada à impressão de revistas,C - Comercial,-,-,-,-,-
+58.29-8-00,"Edição integrada à impressão de cadastros, listas e outros produtos gráficos",C - Comercial,-,-,-,-,-
+59.11-1-01,Estúdios cinematográficos,C - Comercial,-,-,-,-,-
+59.11-1-02,Produção de filmes para publicidade,C - Comercial,-,-,-,-,-
+59.11-1-99,"Atividades de produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente",C - Comercial,-,-,-,-,-
+59.12-0-01,Serviços de dublagem,C - Comercial,-,-,-,-,-
+59.12-0-02,Serviços de mixagem sonora em produção audiovisual,C - Comercial,-,-,-,-,-
+59.12-0-99,"Atividades de pós-produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente",C - Comercial,-,-,-,-,-
+59.13-8-00,"Distribuição cinematográfica, de vídeo e de programas de televisão",C - Comercial,-,-,-,-,-
+59.14-6-00,Atividades de exibição cinematográfica,C - Comercial,-,-,-,-,-
+59.20-1-00,Atividades de gravação de som e de edição de música,C - Comercial,-,-,-,-,-
+60.10-1-00,Atividades de rádio,M - Especial,-,Autorização ANATEL,-,-,Atividade CSE - CMGDT
+60.21-7-00,Atividades de televisão aberta,M - Especial,-,Autorização ANATEL,-,-,Atividade CSE - CMGDT
+60.22-5-01,Programadoras,M - Especial,-,Autorização ANATEL,-,-,Atividade CSE - CMGDT
+60.22-5-02,"Atividades relacionadas à televisão por assinatura, exceto programadoras",M - Especial,-,Autorização ANATEL,-,-,Atividade CSE - CMGDT
+61.10-8-01,Serviços de telefonia fixa comutada - STFC,M - Especial,-,-,-,-,-
+61.10-8-02,Serviços de redes de transporte de telecomunicações - SRTT,M - Especial,-,-,-,-,-
+61.10-8-03,Serviços de comunicação multimídia - SCM,M - Especial,-,-,-,-,-
+61.10-8-99,Serviços de telecomunicações por fio não especificados anteriormente,M - Especial,-,-,-,-,-
+61.20-5-01,Telefonia móvel celular,M - Especial,-,-,-,-,-
+61.20-5-02,Serviço móvel especializado - SME,M - Especial,-,-,-,-,-
+61.20-5-99,Serviços de telecomunicações sem fio não especificados anteriormente,M - Especial,-,-,-,-,-
+61.30-2-00,Telecomunicações por satélite,M - Especial,-,-,-,-,-
+61.41-8-00,Operadoras de televisão por assinatura por cabo,M - Especial,-,-,-,-,-
+61.42-6-00,Operadoras de televisão por assinatura por micro-ondas,M - Especial,-,-,-,-,-
+61.43-4-00,Operadoras de televisão por assinatura por satélite,M - Especial,-,-,-,-,-
+61.90-6-01,Provedores de acesso às redes de comunicações,M - Especial,-,-,-,-,-
+61.90-6-02,Provedores de voz sobre protocolo Internet - VOIP,M - Especial,-,-,-,-,-
+61.90-6-99,Outras atividades de telecomunicações não especificadas anteriormente,M - Especial,-,-,-,-,-
+62.01-5-01,Desenvolvimento de programas de computador sob encomenda,C - Comercial,-,-,-,-,-
+62.01-5-02,Web desing,C - Comercial,-,-,-,-,-
+62.02-3-00,Desenvolvimento e licenciamento de programas de computador customizáveis,C - Comercial,-,-,-,-,-
+62.03-1-00,Desenvolvimento e licenciamento de programas de computador não customizáveis,C - Comercial,-,-,-,-,-
+62.04-0-00,Consultoria em tecnologia da informação,C - Comercial,-,-,-,-,-
+62.09-1-00,"Suporte técnico, manutenção e outros serviços em tecnologia da informação",C - Comercial,-,-,-,-,-
+63.11-9-00,"Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na Internet",C - Comercial,-,-,-,-,-
+63.19-4-00,"Portais, provedores de conteúdo e outros serviços de informação na Internet",C - Comercial,-,-,-,-,-
+63.91-7-00,Agências de notícias,C - Comercial,-,-,-,-,-
+63.99-2-00,Outras atividades de prestação de serviços de informação não especificadas anteriormente,C - Comercial,-,-,-,-,-
+64.10-7-00,Banco Central,C - Comercial,-,-,-,-,-
+64.21-2-00,Bancos comerciais,C - Comercial,-,-,-,-,-
+64.22-1-00,"Bancos múltiplos, com carteira comercial",C - Comercial,-,-,-,-,-
+64.23-9-00,Caixas econômicas,C - Comercial,-,-,-,-,-
+64.24-7-01,Bancos cooperativos,C - Comercial,-,-,-,-,-
+64.24-7-02,Cooperativas centrais de crédito,C - Comercial,-,-,-,-,-
+64.24-7-03,Cooperativas de crédito mútuo,C - Comercial,-,-,-,-,-
+64.24-7-04,Cooperativas de crédito rural,C - Comercial,-,-,-,-,-
+64.31-0-00,"Bancos múltiplos, sem carteira comercial",C - Comercial,-,-,-,-,-
+64.32-8-00,Bancos de investimento,C - Comercial,-,-,-,-,-
+64.33-6-00,Bancos de desenvolvimento,C - Comercial,-,-,-,-,-
+64.38-7-01,Bancos de câmbio,C - Comercial,-,-,-,-,-
+64.38-7-99,Outras instituições de intermediação não monetária não especificadas anteriormente,C - Comercial,-,-,-,-,-
+64.34-4-00,Agências de fomento,C - Comercial,-,-,-,-,-
+64.35-2-01,Sociedades de crédito imobiliário,C - Comercial,-,-,-,-,-
+64.35-2-02,Associações de poupança e empréstimo,C - Comercial,-,-,-,-,-
+64.35-2-03,Companhias hipotecárias,C - Comercial,-,-,-,-,-
+64.36-1-00,"Sociedades de crédito, financiamento e investimento - financeiras",C - Comercial,-,-,-,-,-
+64.37-9-00,Sociedades de crédito ao microempreendedor,C - Comercial,-,-,-,-,-
+64.40-9-00,Arrendamento mercantil,C - Comercial,-,-,-,-,-
+64.50-6-00,Sociedades de capitalização,C - Comercial,-,-,-,-,-
+64.61-1-00,Holdings de instituições financeiras,C - Comercial,-,-,-,-,-
+64.62-0-00,Holdings de instituições não financeiras,C - Comercial,-,-,-,-,-
+64.63-8-00,"Outras sociedades de participação, exceto holdings",C - Comercial,-,-,-,-,-
+64.70-1-01,"Fundos de investimento, exceto previdenciários e imobiliários",C - Comercial,-,-,-,-,-
+64.70-1-02,Fundos de investimento previdenciários,C - Comercial,-,-,-,-,-
+64.70-1-03,Fundos de investimento imobiliários,C - Comercial,-,-,-,-,-
+64.91-3-00,Sociedades de fomento mercantil - factoring,C - Comercial,-,-,-,-,-
+64.92-1-00,Securitização de créditos,C - Comercial,-,-,-,-,-
+64.93-0-00,Administração de consórcios para aquisição de bens e direitos,C - Comercial,-,-,-,-,-
+64.99-9-01,Clubes de investimento,C - Comercial,-,-,-,-,-
+64.99-9-02,Sociedades de investimento,C - Comercial,-,-,-,-,-
+64.99-9-03,Fundo garantidor de crédito,C - Comercial,-,-,-,-,-
+64.99-9-04,Caixas de financiamento de corporações,C - Comercial,-,-,-,-,-
+64.99-9-05,Concessão de crédito pelas OSCIP,C - Comercial,-,-,-,-,-
+64.99-9-99,Outras atividades de serviços financeiros não especificadas anteriormente,C - Comercial,-,-,-,-,-
+65.11-1-01,Sociedade seguradora de seguros vida,C - Comercial,-,-,-,-,-
+65.11-1-02,Planos de auxílio-funeral,C - Comercial,-,-,-,-,-
+65.12-0-00,Sociedade seguradora de seguros não vida,C - Comercial,-,-,-,-,-
+65.20-1-00,Sociedade seguradora de seguros-saúde,C - Comercial,-,-,-,-,-
+65.30-8-00,Resseguros,C - Comercial,-,-,-,-,-
+65.41-3-00,Previdência complementar fechada,C - Comercial,-,-,-,-,-
+65.42-1-00,Previdência complementar aberta,C - Comercial,-,-,-,-,-
+65.50-2-00,Planos de saúde,C - Comercial,-,-,-,-,-
+66.11-8-01,Bolsa de valores,C - Comercial,-,-,-,-,-
+66.11-8-02,Bolsa de mercadorias,C - Comercial,-,-,-,-,-
+66.11-8-03,Bolsa de mercadorias e futuros,C - Comercial,-,-,-,-,-
+66.11-8-04,Administração de mercados de balcão organizados,C - Comercial,-,-,-,-,-
+66.12-6-01,Corretoras de títulos e valores mobiliários,C - Comercial,-,-,-,-,-
+66.12-6-02,Distribuidoras de títulos e valores mobiliários,C - Comercial,-,-,-,-,-
+66.12-6-03,Corretoras de câmbio,C - Comercial,-,-,-,-,-
+66.12-6-04,Corretoras de contratos de mercadorias,C - Comercial,-,-,-,-,-
+66.12-6-05,Agentes de investimentos em aplicações financeiras,C - Comercial,-,-,-,-,-
+66.13-4-00,Administração de cartões de crédito,C - Comercial,-,-,-,-,-
+66.19-3-01,Serviços de liquidação e custódia,C - Comercial,-,-,-,-,-
+66.19-3-02,Correspondentes de instituições financeiras,C - Comercial,-,-,-,-,-
+66.19-3-03,Representações de bancos estrangeiros,C - Comercial,-,-,-,-,-
+66.19-3-04,Caixas eletrônicos,C - Comercial,-,-,-,-,-
+66.19-3-05,Operadoras de cartões de débito,C - Comercial,-,-,-,-,-
+66.19-3-99,Outras atividades auxiliares dos serviços financeiros não especificadas anteriormente,C - Comercial,-,-,-,-,-
+66.21-5-01,Peritos e avaliadores de seguros,C - Comercial,-,-,-,-,-
+66.21-5-02,Auditoria e consultoria atuarial,C - Comercial,-,-,-,-,-
+66.22-3-00,"Corretores e agentes de seguros, de planos de previdência complementar e de saúde",C - Comercial,-,-,-,-,-
+66.29-1-00,"Atividades auxiliares dos seguros, da previdência complementar e dos planos de saúde não especificadas anteriormente",C - Comercial,-,-,-,-,-
+66.30-4-00,Atividades de administração de fundos por contrato ou comissão,C - Comercial,-,-,-,-,-
+68.10-2-01,Compra e venda de imóveis próprios,C - Comercial,-,-,-,-,-
+68.10-2-02,Aluguel de imóveis próprios,C - Comercial,-,-,-,-,-
+68.10-2-03,Loteamento de imóveis próprios,C - Comercial,-,-,-,-,-
+68.21-8-01,Corretagem na compra e venda e avaliação de imóveis,C - Comercial,-,-,-,-,-
+68.21-8-02,Corretagem no aluguel de imóveis,C - Comercial,-,-,-,-,-
+68.22-6-00,Gestão e administração da propriedade imobiliária,C - Comercial,-,-,-,-,-
+69.11-7-01,Serviços advocatícios,D - Serviço Profissional,-,-,-,-,-
+69.11-7-02,Atividades auxiliares da justiça,C - Comercial,-,-,-,-,-
+69.11-7-03,Agente de propriedade industrial,C - Comercial,-,-,-,-,-
+69.20-6-01,Atividades de contabilidade,D - Serviço Profissional,-,-,-,-,-
+69.20-6-02,Atividades de consultoria e auditoria contábil e tributária,D - Serviço Profissional,-,-,-,-,-
+69.12-5-00,Cartórios,C - Comercial,-,-,-,-,-
+70.20-4-00,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",D - Serviço Profissional,-,-,-,-,-
+71.11-1-00,Serviços de arquitetura,D - Serviço Profissional,-,-,-,-,-
+71.12-0-00,Serviços de engenharia,D - Serviço Profissional,-,-,-,-,-
+71.19-7-01,"Serviços de cartografia, topografia e geodésia",D - Serviço Profissional,-,-,-,-,-
+71.19-7-02,Atividades de estudos geológicos,D - Serviço Profissional,-,-,-,-,-
+71.19-7-03,Serviços de desenho técnico relacionados à arquitetura e engenharia,D - Serviço Profissional,-,-,-,-,-
+71.19-7-04,Serviços de perícia técnica relacionados à segurança do trabalho,D - Serviço Profissional,-,-,-,-,-
+71.19-7-99,Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente,D - Serviço Profissional,-,-,-,-,-
+71.20-1-00,Testes e análises técnicas,D - Serviço Profissional,-,-,-,-,-
+72.10-0-00,Pesquisa e desenvolvimento experimental em ciências físicas e naturais,D - Serviço Profissional,-,-,-,-,-
+72.20-7-00,Pesquisa e desenvolvimento experimental em ciências sociais e humanas,D - Serviço Profissional,-,-,-,-,-
+73.11-4-00,Agências de publicidade,D - Serviço Profissional,-,-,-,-,-
+73.12-2-00,"Agenciamento de espaços para publicidade, exceto em veículos de comunicação",D - Serviço Profissional,-,-,-,-,-
+73.19-0-01,Criação de estandes para feiras e exposições,D - Serviço Profissional,-,-,-,-,-
+73.19-0-02,Promoção de vendas,D - Serviço Profissional,-,-,-,-,-
+73.19-0-03,Marketing direto,D - Serviço Profissional,-,-,-,-,-
+73.19-0-04,Consultoria em publicidade,D - Serviço Profissional,-,-,-,-,-
+73.19-0-99,Outras atividades de publicidade não especificadas anteriormente,D - Serviço Profissional,-,-,-,-,-
+73.20-3-00,Pesquisas de mercado e de opinião pública,D - Serviço Profissional,-,-,-,-,-
+74.10-2-02,Design de interiores,D - Serviço Profissional,-,-,-,-,-
+74.10-2-03,Desing de produto,D - Serviço Profissional,-,-,-,-,-
+74.10-2-99,Atividades de desing não especificadas anteriormente,D - Serviço Profissional,-,-,-,-,-
+74.20-0-01,"Atividades de produção de fotografias, exceto aérea e submarina",D - Serviço Profissional,-,-,-,-,-
+74.20-0-02,Atividades de produção de fotografias aéreas e submarinas,D - Serviço Profissional,-,-,-,-,-
+74.20-0-03,Laboratórios fotográficos,D - Serviço Profissional,-,-,-,-,-
+74.20-0-04,Filmagem de festas e eventos,D - Serviço Profissional,-,-,-,-,-
+74.20-0-05,Serviços de microfilmagem,D - Serviço Profissional,-,-,-,-,-
+74.90-1-01,"Serviços de tradução, interpretação e similares",D - Serviço Profissional,-,-,-,-,-
+74.90-1-02,Escafandria e mergulho,D - Serviço Profissional,-,-,-,-,-
+74.90-1-03,Serviços de agronomia e de consultoria às atividades agrícolas e pecuárias,D - Serviço Profissional,-,-,-,-,-
+74.90-1-04,"Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários",D - Serviço Profissional,-,-,-,-,-
+74.90-1-05,"Agenciamento de profissionais para atividades esportivas, culturais e artísticas",D - Serviço Profissional,-,-,-,-,-
+74.90-1-99,"Outras atividades profissionais, científicas e técnicas não especificadas anteriormente",D - Serviço Profissional,-,-,-,-,-
+75.00-1-00,Atividades veterinárias,C - Comercial,-,-,-,-,-
+77.11-0-00,Locação de automóveis sem condutor,C - Comercial,-,-,-,-,-
+77.19-5-01,"Locação de embarcações sem tripulação, exceto para fins recreativos",C - Comercial,-,-,-,-,-
+77.19-5-02,Locação de aeronaves sem tripulação,C - Comercial,-,-,-,-,-
+77.19-5-99,"Locação de outros meios de transporte não especificados anteriormente, sem condutor",C - Comercial,-,-,-,-,-
+77.21-7-00,Aluguel de equipamentos recreativos e esportivos,C - Comercial,-,-,-,-,-
+77.22-5-00,"Aluguel de fitas de vídeo, DVDs e similares",C - Comercial,-,-,-,-,-
+77.23-3-00,"Aluguel de objetos do vestuário, jóias e acessórios",C - Comercial,-,-,-,-,-
+77.29-2-01,Aluguel de aparelhos de jogos eletrônicos,C - Comercial,-,-,-,-,-
+77.29-2-02,"Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais",C - Comercial,-,-,-,-,-
+77.29-2-03,Aluguel de material médico,C - Comercial,-,-,-,-,-
+77.29-2-99,Aluguel de outros objetos pessoais e domésticos não especificados anteriormente,C - Comercial,-,-,-,-,-
+77.31-4-00,Aluguel de máquinas e equipamentos agrícolas sem operador,C - Comercial,-,-,-,-,-
+77.32-2-01,"Aluguel de máquinas e equipamentos para construção sem operador, exceto andaimes",C - Comercial,-,-,-,-,-
+77.32-2-02,Aluguel de andaimes,C - Comercial,-,-,-,-,-
+77.33-1-00,Aluguel de máquinas e equipamentos para escritório,C - Comercial,-,-,-,-,-
+77.39-0-01,"Aluguel de máquinas e equipamentos para extração de minérios e petróleo, sem operador",C - Comercial,-,-,-,-,-
+77.39-0-02,"Aluguel de equipamentos científicos, médicos e hospitalares, sem operador",C - Comercial,-,-,-,-,-
+77.39-0-03,"Aluguel de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes",C - Comercial,-,-,-,-,-
+77.39-0-99,"Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador",C - Comercial,-,-,-,-,-
+77.40-3-00,Gestão de ativos intangíveis não financeiros,C - Comercial,-,-,-,-,-
+78.10-8-00,Seleção e agenciamento de mão de obra,C - Comercial,-,-,-,-,-
+78.20-5-00,Locação de mão de obra temporária,C - Comercial,-,-,-,-,-
+78.30-2-00,Fornecimento e gestão de recursos humanos para terceiros,C - Comercial,-,-,-,-,-
+79.11-2-00,Agências de viagens,C - Comercial,-,-,-,-,-
+79.12-1-00,Operadores turísticos,C - Comercial,-,-,-,-,-
+79.90-2-00,Serviços de reservas e outros serviços de turismo não especificados anteriormente,C - Comercial,-,-,-,-,-
+80.11-1-01,Atividades de vigilância e segurança privada,C - Comercial,-,Autorização do Exército,-,-,-
+80.11-1-02,Serviços de adestramento de cães de guarda,C - Comercial,-,-,-,-,-
+80.12-9-00,Atividades de transporte de valores,C - Comercial,-,-,-,-,-
+80.20-0-01,Atividades de monitoramento de sistemas de segurança eletrônico,C - Comercial,-,-,-,-,-
+80.20-0-02,Outras atividades de serviços de segurança,C - Comercial,-,-,-,-,-
+80.30-7-00,Atividades de investigação particular,C - Comercial,-,-,-,-,-
+81.11-7-00,"Serviços combinados para apoio a edifícios, exceto condomínios prediais",C - Comercial,-,-,-,-,-
+81.21-4-00,Limpeza em prédios e em domicílios,C - Comercial,-,-,-,-,-
+81.29-0-00,Atividades de limpeza não especificadas anteriormente,C - Comercial,-,-,-,-,-
+81.30-3-00,Atividades paisagísticas,C - Comercial,-,-,-,-,-
+81.12-5-00,Condomínios prediais,C - Comercial,-,-,-,-,-
+81.22-2-00,Imunização e controle de pragas urbanas,C - Comercial,-,-,-,-,-
+82.11-3-00,Serviços combinados de escritório e apoio administrativo,C - Comercial,-,-,-,-,-
+82.19-9-01,Fotocópias,C - Comercial,-,-,-,-,-
+82.19-9-99,Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente,C - Comercial,-,-,-,-,-
+82.20-2-00,Atividades de teleatendimento,C - Comercial,-,-,-,-,-
+82.30-0-01,"Serviços de organização de feiras, congressos, exposições e festas",C - Comercial,-,-,-,-,-
+82.91-1-00,Atividades de cobrança e informações cadastrais,C - Comercial,-,-,-,-,-
+82.99-7-01,"Medição de consumo de energia elétrica, gás e água",C - Comercial,-,-,-,-,-
+82.99-7-02,"Emissão de vales-alimentação, vales-transporte e similares",C - Comercial,-,-,-,-,-
+82.99-7-03,"Serviços de gravação de carimbos, exceto confecção",C - Comercial,-,-,-,-,-
+82.99-7-04,Leiloeiros independentes,C - Comercial,-,-,-,-,-
+82.99-7-05,Serviços de levantamento de fundos sob contrato,C - Comercial,-,-,-,-,-
+82.99-7-99,Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente,C - Comercial,-,Autorização DETRAN - Vistoria veicular,-,-,-
+82.30-0-02,Casas de festas e eventos,F - Local de reunião de público,-,-,-,Laudo acústico com ART,-
+82.99-7-06,Casas lotéricas,C - Comercial,-,Autorização CEF,-,-,-
+82.92-0-00,Envasamento e empacotamento sob contrato,C - Comercial,-,-,-,-,-
+82.99-7-07,Salas de acesso à Internet,C - Comercial,-,-,-,-,-
+84.11-6-00,Administração pública em geral,D - Serviço Profissional,-,-,-,-,-
+84.12-4-00,"Regulação das atividades de saúde, educação, serviços culturais e outros serviços sociais",D - Serviço Profissional,-,-,-,-,-
+84.13-2-00,Regulação das atividades econômicas,D - Serviço Profissional,-,-,-,-,-
+84.21-3-00,Relações exteriores,D - Serviço Profissional,-,-,-,-,-
+84.22-1-00,Defesa,D - Serviço Profissional,-,-,-,-,-
+84.23-0-00,Justiça,D - Serviço Profissional,-,-,-,-,-
+84.24-8-00,Segurança e ordem pública,D - Serviço Profissional,-,-,-,-,-
+84.25-6-00,Defesa Civil,D - Serviço Profissional,-,-,-,-,-
+84.30-2-00,Seguridade social obrigatória,D - Serviço Profissional,-,-,-,-,-
+85.11-2-00,Educação infantil - creche,E - Educacional e Cultura física,-,Autorização COMED,-,-,-
+85.12-1-00,Educação infantil - pré-escola,E - Educacional e Cultura física,-,Autorização COMED,-,-,-
+85.13-9-00,Ensino fundamental,E - Educacional e Cultura física,-,-,-,-,-
+85.20-1-00,Ensino médio,E - Educacional e Cultura física,-,-,-,-,-
+85.31-7-00,Educação superior - graduação,E - Educacional e Cultura física,-,-,-,-,-
+85.32-5-00,Educação superior - graduação e pós-graduação,E - Educacional e Cultura física,-,-,-,-,-
+85.33-3-00,Educação superior - pós-graduação e extensão,E - Educacional e Cultura física,-,-,-,-,-
+85.41-4-00,Educação profissional de nível técnico,E - Educacional e Cultura física,-,-,-,-,-
+85.42-2-00,Educação profissional de nível tecnológico,E - Educacional e Cultura física,-,-,-,-,-
+85.50-3-01,Administração de caixas escolares,E - Educacional e Cultura física,-,-,-,-,-
+85.50-3-02,"Atividades de apoio à educação, exceto caixas escolares",E - Educacional e Cultura física,-,-,-,-,-
+85.91-1-00,Ensino de esportes,E - Educacional e Cultura física,-,-,-,-,-
+85.92-9-01,Ensino de dança,E - Educacional e Cultura física,-,-,-,-,-
+85.92-9-02,"Ensino de artes cênicas, exceto dança",E - Educacional e Cultura física,-,-,-,-,-
+85.92-9-03,Ensino de música,E - Educacional e Cultura física,-,-,-,-,-
+85.92-9-99,Ensino de arte e cultura não especificado anteriormente,E - Educacional e Cultura física,-,-,-,-,-
+85.93-7-00,Ensino de idiomas,E - Educacional e Cultura física,-,-,-,-,-
+85.99-6-01,Formação de condutores,E - Educacional e Cultura física,-,-,-,-,-
+85.99-6-02,Cursos de pilotagem,E - Educacional e Cultura física,-,-,-,-,-
+85.99-6-03,Treinamento em informática,E - Educacional e Cultura física,-,-,-,-,-
+85.99-6-04,Treinamento em desenvolvimento profissional e gerencial,E - Educacional e Cultura física,-,-,-,-,-
+85.99-6-05,Cursos preparatórios para concursos,E - Educacional e Cultura física,-,-,-,-,-
+85.99-6-99,Outras atividades de ensino não especificadas anteriormente,E - Educacional e Cultura física,-,-,-,-,-
+86.10-1-01,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",H - Serviço de saúde e institucional,-,-,-,-,-
+86.10-1-02,Atividades de atendimento em pronto-socorro e unidades hospitalares para atendimento a urgências,H - Serviço de saúde e institucional,-,-,-,-,-
+86.30-5-01,Atividade médica ambulatorial com recursos para realização de procedimentos cirúrgicos,H - Serviço de saúde e institucional,-,-,-,-,-
+86.30-5-02,Atividade médica ambulatorial com recursos para realização de exames complementares,H - Serviço de saúde e institucional,-,-,-,-,-
+86.30-5-04,Atividade odontológica,H - Serviço de saúde e institucional,-,-,-,-,-
+86.30-5-06,Serviços de vacinação e imunização humana,H - Serviço de saúde e institucional,-,-,-,-,-
+86.30-5-07,Atividades de reprodução humana assistida,H - Serviço de saúde e institucional,-,-,-,-,-
+86.30-5-99,Atividades de atenção ambulatorial não especificadas anteriormente,H - Serviço de saúde e institucional,-,-,-,-,-
+86.40-2-01,Laboratórios de anatomia patológica e citológica,H - Serviço de saúde e institucional,-,-,-,-,-
+86.40-2-02,Laboratórios clínicos,H - Serviço de saúde e institucional,-,-,-,-,-
+86.40-2-03,Serviços de diálise e nefrologia,H - Serviço de saúde e institucional,-,-,-,-,-
+86.40-2-04,Serviços de tomografia,H - Serviço de saúde e institucional,-,-,-,-,-
+86.40-2-05,"Serviços de diagnóstico por imagem com uso de radiação ionizante, exceto tomografia",H - Serviço de saúde e institucional,-,-,-,-,-
+86.40-2-06,Serviços de ressonância magnética,H - Serviço de saúde e institucional,-,-,-,-,-
+86.40-2-07,"Serviços de diagnóstico por imagem sem uso de radiação ionizante, exceto ressonância magnética",H - Serviço de saúde e institucional,-,-,-,-,-
+86.40-2-08,"Serviços de diagnóstico por registro gráfico - ECG, EEG e outros exames análogos",H - Serviço de saúde e institucional,-,-,-,-,-
+86.40-2-09,Serviços de diagnóstico por métodos ópticos - endoscopia e outros exames análogos,H - Serviço de saúde e institucional,-,-,-,-,-
+86.40-2-10,Serviços de quimioterapia,H - Serviço de saúde e institucional,-,-,-,-,-
+86.40-2-11,Serviços de radioterapia,H - Serviço de saúde e institucional,-,-,-,-,-
+86.40-2-12,Serviços de hemoterapia,H - Serviço de saúde e institucional,-,-,-,-,-
+86.40-2-13,Serviços de litotripsia,H - Serviço de saúde e institucional,-,-,-,-,-
+86.40-2-14,Serviços de bancos de células e tecidos humanos,H - Serviço de saúde e institucional,-,-,-,-,-
+86.40-2-99,Atividades de serviços de complementação diagnóstica e terapêutica não especificadas anteriormente,H - Serviço de saúde e institucional,-,-,-,-,-
+86.21-6-01,UTI móvel,H - Serviço de saúde e institucional,-,-,-,-,-
+86.21-6-02,"Serviços móveis de atendimento a urgências, exceto por UTI móvel",H - Serviço de saúde e institucional,-,-,-,-,-
+86.22-4-00,"Serviços de remoção de pacientes, exceto os serviços móveis de atendimento a urgências",H - Serviço de saúde e institucional,-,-,-,-,-
+86.30-5-03,Atividade médica ambulatorial restrita a consultas,H - Serviço de saúde e institucional,-,-,-,-,-
+86.50-0-01,Atividades de enfermagem,H - Serviço de saúde e institucional,-,-,-,-,-
+86.50-0-02,Atividades de profissionais da nutrição,H - Serviço de saúde e institucional,-,-,-,-,-
+86.50-0-03,Atividades de psicologia e psicanálise,H - Serviço de saúde e institucional,-,-,-,-,-
+86.50-0-04,Atividades de fisioterapia,H - Serviço de saúde e institucional,-,-,-,-,-
+86.50-0-05,Atividades de terapia ocupacional,H - Serviço de saúde e institucional,-,-,-,-,-
+86.50-0-06,Atividades de fonoaudiologia,H - Serviço de saúde e institucional,-,-,-,-,-
+86.50-0-07,Atividades de terapia de nutrição enteral e parenteral,H - Serviço de saúde e institucional,-,-,-,-,-
+86.50-0-99,Atividades de profissionais da área de saúde não especificadas anteriormente,H - Serviço de saúde e institucional,-,-,-,-,-
+86.60-7-00,Atividades de apoio à gestão de saúde,H - Serviço de saúde e institucional,-,-,-,-,-
+86.90-9-01,Atividades de práticas integrativas e complementares em saúde humana,H - Serviço de saúde e institucional,-,-,-,-,-
+86.90-9-02,Atividades de bancos de leite humano,H - Serviço de saúde e institucional,-,-,-,-,-
+86.90-9-03,Atividades de acupuntura,H - Serviço de saúde e institucional,-,-,-,-,-
+86.90-9-04,Atividades de podologia,H - Serviço de saúde e institucional,-,-,-,-,-
+86.90-9-99,Outras atividades de atenção à saúde humana não especificadas anteriormente,H - Serviço de saúde e institucional,-,-,-,-,-
+87.11-5-01,Clínicas e residências geriátricas,H - Serviço de saúde e institucional,-,-,-,-,Atividade CSE - CMGDT
+87.11-5-02,Instituições de longa permanência para idosos,H - Serviço de saúde e institucional,-,-,-,-,Atividade CSE - CMGDT
+87.11-5-05,Condomínios residenciais para idosos,H - Serviço de saúde e institucional,-,-,-,-,Atividade CSE - CMGDT
+87.30-1-01,Orfanatos,H - Serviço de saúde e institucional,-,-,-,-,Atividade CSE - CMGDT
+87.30-1-02,Albergues assistenciais,H - Serviço de saúde e institucional,-,-,-,-,Atividade CSE - CMGDT
+87.11-5-03,"Atividades de assistência a deficientes físicos, imunodeprimidos e convalescentes",H - Serviço de saúde e institucional,-,-,-,-,Atividade CSE - CMGDT
+87.11-5-04,Centros de apoio a pacientes com câncer e com AIDS,H - Serviço de saúde e institucional,-,-,-,-,Atividade CSE - CMGDT
+87.12-3-00,Atividades de fornecimento de infraestrutura de apoio e assistência a paciente no domicílio,H - Serviço de saúde e institucional,-,-,-,-,Atividade CSE - CMGDT
+87.30-1-99,Atividades de assistência social prestadas em residências coletivas e particulares não especificadas anteriormente,H - Serviço de saúde e institucional,-,-,-,-,Atividade CSE - CMGDT
+87.20-4-01,Atividades de centros de assistência psicossocial,H - Serviço de saúde e institucional,-,-,-,-,Atividade CSE - CMGDT
+87.20-4-99,"Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência química e grupos similares não especificadas anteriormente",H - Serviço de saúde e institucional,-,-,-,-,-
+88.00-6-00,Serviços de assistência social sem alojamento,C - Comercial,-,-,-,-,-
+90.01-9-01,Produção teatral,C - Comercial,-,-,-,-,-
+90.01-9-02,Produção musical,C - Comercial,-,-,-,-,-
+90.01-9-03,Produção de espetáculos de dança,C - Comercial,-,-,-,-,-
+90.01-9-04,"Produção de espetáculos circenses, de marionetes e similares",C - Comercial,-,-,-,-,-
+90.01-9-05,"Produção de espetáculos de rodeios, vaquejadas e similares",C - Comercial,-,-,-,-,-
+90.01-9-06,Atividades de sonorização e de iluminação,C - Comercial,-,-,-,-,-
+90.01-9-99,"Artes cênicas, espetáculos e atividades complementares não especificados anteriormente",C - Comercial,-,-,-,-,-
+90.02-7-01,"Atividades de artistas plásticos, jornalistas independentes e escritores",C - Comercial,-,-,-,-,-
+90.02-7-02,Restauração de obras de arte,D - Serviço Profissional,-,-,-,-,-
+90.03-5-00,"Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas",C - Comercial,-,-,-,-,-
+91.01-5-00,Atividades de bibliotecas e arquivos,C - Comercial,-,-,-,-,-
+91.02-3-01,Atividades de museus e de exploração de lugares e prédios históricos e atrações similares,F - Local de reunião de público,-,-,-,-,-
+91.02-3-02,Restauração e conservação de lugares e prédios históricos,D - Serviço Profissional,-,-,-,-,-
+91.03-1-00,"Atividades de jardins botânicos, zoológicos, parques nacionais, reservas ecológicas e áreas de proteção ambiental",F - Local de reunião de público,-,-,-,-,-
+92.00-3-01,Casas de bingo,F - Local de reunião de público,-,-,-,-,-
+92.00-3-02,Exploração de apostas em corridas de cavalos,C - Comercial,-,-,-,-,-
+92.00-3-99,Exploração de jogos de azar e apostas não especificados anteriormente,C - Comercial,-,-,-,-,-
+93.11-5-00,Gestão de instalações de esportes,C - Comercial,-,-,-,-,-
+93.13-1-00,Atividades de condicionamento físico,C - Comercial,-,-,-,Laudo acústico com ART,-
+93.19-1-01,Produção e promoção de eventos esportivos,C - Comercial,-,-,-,-,-
+93.19-1-99,Outras atividades esportivas não especificadas anteriormente,C - Comercial,-,-,-,-,-
+93.29-8-99,Outras atividades de recreação e lazer não especificadas anteriormente,C - Comercial,-,-,-,-,-
+93.12-3-00,"Clubes sociais, esportivos e similares",F - Local de reunião de público,-,-,-,Laudo acústico com ART,-
+93.21-2-00,Parques de diversão e parques temáticos,F - Local de reunião de público,-,-,-,-,-
+93.29-8-01,"Discotecas, danceterias, salões de dança e similares",F - Local de reunião de público,-,-,-,-,-
+93.29-8-02,Exploração de boliches,F - Local de reunião de público,-,-,-,-,-
+93.29-8-03,"Exploração de jogos de sinuca, bilhar e similares",F - Local de reunião de público,-,-,-,-,-
+93.29-8-04,Exploração de jogos eletrônicos recreativos,C - Comercial,-,-,-,-,-
+94.11-1-00,Atividades de organizações associativas patronais e empresariais,C - Comercial,-,-,-,-,-
+94.12-0-01,Atividades de fiscalização profissional,D - Serviço Profissional,-,-,-,-,-
+94.12-0-99,Outras atividades associativas profissionais,C - Comercial,-,-,-,-,-
+94.20-1-00,Atividades de organizações sindicais,C - Comercial,-,-,-,-,-
+94.30-8-00,Atividades de associações de defesa de direitos sociais,C - Comercial,-,-,-,-,-
+94.91-0-00,Atividades de organizações religiosas ou filosóficas,F - Local de reunião de público,-,-,-,Laudo acústico com ART,Atividade CSE - CMGDT
+94.92-8-00,Atividades de organizações políticas,C - Comercial,-,-,-,-,-
+94.93-6-00,Atividades de organizações associativas ligadas à cultura e à arte,C - Comercial,-,-,-,-,-
+94.99-5-00,Atividades associativas não especificadas anteriormente,C - Comercial,-,-,-,-,-
+95.11-8-00,Reparação e manutenção de computadores e de equipamentos periféricos,D - Serviço Profissional,-,-,-,-,-
+95.12-6-00,Reparação e manutenção de equipamentos de comunicação,D - Serviço Profissional,-,-,-,-,-
+95.21-5-00,Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico,D - Serviço Profissional,-,-,-,-,-
+95.29-1-01,"Reparação de calçados, bolsas e artigos de viagem",D - Serviço Profissional,-,-,-,-,-
+95.29-1-02,Chaveiros,D - Serviço Profissional,-,-,-,-,-
+95.29-1-03,Reparação de relógios,D - Serviço Profissional,-,-,-,-,-
+95.29-1-04,"Reparação de bicicletas, triciclos e outros veículos não motorizados",D - Serviço Profissional,-,-,-,-,-
+95.29-1-05,Reparação de artigos do mobiliário,D - Serviço Profissional,-,-,-,-,-
+95.29-1-06,Reparação de jóias,D - Serviço Profissional,-,-,-,-,-
+95.29-1-99,Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente,D - Serviço Profissional,-,-,-,-,-
+96.01-7-01,Lavanderias,D - Serviço Profissional,-,-,-,-,-
+96.09-2-06,Serviços de tatuagem e colocação de piercing,D - Serviço Profissional,-,-,-,-,-
+96.01-7-02,Tinturarias,C - Comercial,-,-,-,-,-
+96.01-7-03,Toalheiros,D - Serviço Profissional,-,-,-,-,-
+96.09-2-05,Atividades de sauna e banhos,C - Comercial,-,-,-,-,-
+96.02-5-01,"Cabeleireiros, manicure e pedicure",D - Serviço Profissional,-,-,-,-,-
+96.02-5-02,Atividades de estética e outros serviços de cuidados com a beleza,D - Serviço Profissional,-,-,-,-,-
+96.09-2-02,Agências matrimoniais,D - Serviço Profissional,-,-,-,-,-
+96.09-2-07,Alojamento de animais domésticos,C - Comercial,-,-,-,-,-
+96.09-2-08,Higiene e embelezamento de animais domésticos,C - Comercial,-,-,-,-,-
+96.09-2-99,Outras atividades de serviços pessoais não especificadas anteriormente,C - Comercial,-,-,-,-,-
+96.03-3-01,Gestão e manutenção de cemitérios,Verificar,Licenciamento ambiental,-,-,-,-
+96.03-3-02,Serviços de cremação,Verificar,Licenciamento ambiental,-,-,-,-
+96.03-3-03,Serviços de sepultamento,Verificar,Licenciamento ambiental,-,-,-,-
+96.03-3-04,Serviços de funerárias,Verificar,Licenciamento ambiental,-,-,-,-
+96.03-3-05,Serviços de somatoconservação,Verificar,Licenciamento ambiental,-,-,-,-
+96.03-3-99,Atividades funerárias e serviços relacionados não especificados anteriormente,Verificar,Licenciamento ambiental,-,-,-,-
+96.09-2-04,Exploração de máquinas de serviços pessoais acionadas por moeda,C - Comercial,-,-,-,-,-
+97.00-5-00,Serviços domésticos,D - Serviço Profissional,-,-,-,-,-
+99.00-8-00,Organismos internacionais e outras instituições extraterritoriais,C - Comercial,-,-,-,-,-
